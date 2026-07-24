@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="description" content="SELFCARE DIAGNOSTICS - Empowering Wellness with Home Sample Collection in Chennai & Thiruvannamalai">
+    <meta name="theme-color" content="#00875A">
+    <title>SELFCARE DIAGNOSTICS | Empowering Wellness</title>
+    
+    <link rel="manifest" href="manifest.json">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/png" href="assets/icon-192.png">
+    <link rel="apple-touch-icon" href="assets/icon-192.png">
+</head>
+<body>
+
+    <a href="#main-content" class="skip-link">Skip to main content</a>
+
+    <!-- Sticky Header Navigation -->
+    <header class="navbar" id="navbar">
+        <div class="nav-container">
+            <div class="brand-container">
+                <img src="assets/logo.png" alt="Selfcare Diagnostics Logo" class="app-logo" id="app-logo">
+                <div class="brand-text">
+                    <span class="brand-name">SELFCARE</span>
+                    <span class="brand-tagline">Empowering Wellness</span>
+                </div>
+            </div>
+
+            <nav class="nav-links" id="nav-menu">
+                <a href="#home" class="nav-link active">Home</a>
+                <a href="#tests-section" class="nav-link">Tests &amp; Packages</a>
+                <a href="#categories" class="nav-link">Categories</a>
+                <a href="#faq" class="nav-link">FAQ</a>
+            </nav>
+
+            <div class="nav-actions">
+                <button type="button" class="btn-theme-toggle" id="theme-toggle" aria-label="Toggle Dark Mode">🌙</button>
+                <button type="button" class="btn-cart" id="cart-toggle-btn" aria-label="Shopping Cart">
+                    🛒 <span class="cart-badge" id="cart-badge">0</span>
+                </button>
+                <button type="button" class="btn-install hidden" id="pwa-install-btn">Install App</button>
+            </div>
+        </div>
+    </header>
+
+    <main id="main-content">
+        <!-- Hero Section -->
+        <section class="hero-section" id="home">
+            <div class="hero-content">
+                <span class="hero-badge">⚡ Free Home Collection Available 24/7</span>
+                <h1 class="hero-title">Accurate Diagnostics, Delivered At Your Doorstep</h1>
+                <p class="hero-subtitle">Book over 1000+ laboratory tests online in Chennai &amp; Thiruvannamalai with certified phlebotomists.</p>
+                
+                <!-- Instant Search Bar -->
+                <div class="search-box-wrapper">
+                    <div class="search-input-group">
+                        <span class="search-icon">🔍</span>
+                        <input type="search" id="search-input" class="search-input" placeholder="Search tests e.g., CBC, HbA1c, Vitamin D, Glucose..." autocomplete="off">
+                    </div>
+                    <div class="search-results-dropdown hidden" id="search-results-dropdown"></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Categories Carousel Section -->
+        <section class="categories-section" id="categories">
+            <div class="section-header">
+                <h2>Explore Popular Categories</h2>
+                <p>Find tests grouped by medical specialty</p>
+            </div>
+            <div class="categories-grid" id="categories-grid">
+                <!-- Dynamically Populated -->
+            </div>
+        </section>
+
+        <!-- Dynamic Tests & Packages Section -->
+        <section class="tests-section" id="tests-section">
+            <div class="section-header">
+                <h2>Available Laboratory Investigations</h2>
+                <div class="tab-controls">
+                    <button type="button" class="tab-btn active" data-tab="all-tests">Individual Tests</button>
+                    <button type="button" class="tab-btn" data-tab="packages">Health Packages</button>
+                </div>
+            </div>
+
+            <div class="tests-grid" id="tests-grid">
+                <!-- Test Cards Injected Dynamically -->
+            </div>
+        </section>
+
+        <!-- Testimonials -->
+        <section class="testimonials-section">
+            <div class="section-header">
+                <h2>What Our Patients Say</h2>
+            </div>
+            <div class="testimonials-grid">
+                <div class="testimonial-card">
+                    <p>"Very punctual home collection in Chennai. Reports delivered via WhatsApp on the same day!"</p>
+                    <strong>- S. Anitha</strong>
+                </div>
+                <div class="testimonial-card">
+                    <p>"Painless blood collection and clear digital report. Highly recommended!"</p>
+                    <strong>- K. Rajesh</strong>
+                </div>
+            </div>
+        </section>
+
+        <!-- FAQ Section -->
+        <section class="faq-section" id="faq">
+            <div class="section-header">
+                <h2>Frequently Asked Questions</h2>
+            </div>
+            <div class="faq-accordion">
+                <details class="faq-item">
+                    <summary>How do I book a home sample collection?</summary>
+                    <p>Select your required tests, add them to your cart, fill in your contact details, and confirm via WhatsApp.</p>
+                </details>
+                <details class="faq-item">
+                    <summary>How fast will I receive my test reports?</summary>
+                    <p>Most routine reports (CBC, HbA1c, LFT, RFT) are delivered within 6 to 12 hours directly on WhatsApp.</p>
+                </details>
+            </div>
+        </section>
+    </main>
+
+    <!-- Slide-over Cart Drawer -->
+    <aside class="cart-drawer" id="cart-drawer" aria-hidden="true">
+        <div class="cart-header">
+            <h3>Your Booking Cart</h3>
+            <button type="button" class="close-cart-btn" id="close-cart-btn">&times;</button>
+        </div>
+        <div class="cart-body" id="cart-items-container">
+            <p class="empty-cart-text">Your cart is empty.</p>
+        </div>
+        <div class="cart-footer">
+            <div class="price-breakdown">
+                <div class="price-row"><span>Tests Subtotal:</span> <span id="cart-subtotal">₹0</span></div>
+                <div class="price-row"><span>Home Collection Charge:</span> <span id="cart-collection-fee">₹100</span></div>
+                <hr>
+                <div class="price-row total-row"><strong>Total Amount:</strong> <strong id="cart-grand-total">₹0</strong></div>
+            </div>
+            <button type="button" class="btn-primary btn-block" id="proceed-booking-btn">Proceed to Booking</button>
+        </div>
+    </aside>
+
+    <!-- Booking Form Modal -->
+    <div class="modal-overlay hidden" id="booking-modal">
+        <div class="modal-card">
+            <div class="modal-header">
+                <h3>Patient Details &amp; Schedule</h3>
+                <button type="button" class="close-modal-btn" id="close-booking-modal">&times;</button>
+            </div>
+            <form id="booking-form" class="modal-body">
+                <div class="form-group">
+                    <label for="p-name">Patient Full Name *</label>
+                    <input type="text" id="p-name" required class="form-control" placeholder="e.g. Ramesh Kumar">
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-half">
+                        <label for="p-age">Age *</label>
+                        <input type="number" id="p-age" required class="form-control" placeholder="Years">
+                    </div>
+                    <div class="form-group col-half">
+                        <label for="p-gender">Gender *</label>
+                        <select id="p-gender" required class="form-control">
+                            <option value="Male">Male</option>
+                            <option value="Female">Female</option>
+                            <option value="Other">Other</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-half">
+                        <label for="p-mobile">Mobile Number *</label>
+                        <input type="tel" id="p-mobile" required pattern="[0-9]{10}" class="form-control" placeholder="10-digit number">
+                    </div>
+                    <div class="form-group col-half">
+                        <label for="p-type">Collection Type *</label>
+                        <select id="p-type" required class="form-control">
+                            <option value="Home Sample Collection">Home Sample Collection</option>
+                            <option value="Lab Visit">Lab Visit</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="p-address">Address &amp; Pincode *</label>
+                    <textarea id="p-address" required class="form-control" rows="2" placeholder="House No, Street, Area, Pincode"></textarea>
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-half">
+                        <label for="p-date">Preferred Date *</label>
+                        <input type="date" id="p-date" required class="form-control">
+                    </div>
+                    <div class="form-group col-half">
+                        <label for="p-time">Preferred Time Slot *</label>
+                        <select id="p-time" required class="form-control">
+                            <option value="06:00 AM - 08:00 AM">06:00 AM - 08:00 AM</option>
+                            <option value="08:00 AM - 10:00 AM">08:00 AM - 10:00 AM</option>
+                            <option value="10:00 AM - 12:00 PM">10:00 AM - 12:00 PM</option>
+                            <option value="04:00 PM - 06:00 PM">04:00 PM - 06:00 PM</option>
+                        </select>
+                    </div>
+                </div>
+                <button type="submit" class="btn-primary btn-block btn-whatsapp">Confirm &amp; Book via WhatsApp</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-container">
+            <div class="footer-col">
+                <h3>SELFCARE DIAGNOSTICS</h3>
+                <p>Empowering Wellness through precise diagnostics and door-step clinical sample collections.</p>
+            </div>
+            <div class="footer-col">
+                <h4>Contact Us</h4>
+                <p>📞 Phone/WhatsApp: +91 7010174890</p>
+                <p>📍 Location: Chennai &amp; Thiruvannamalai, Tamil Nadu</p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2026 SELFCARE DIAGNOSTICS. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

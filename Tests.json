@@ -1,0 +1,3201 @@
+[
+  {
+    "Test Name": "Complete Blood Count (CBC)",
+    "Category": "Hematology",
+    "Price": 350,
+    "Keywords": "blood count, hemoglobin, wbc, rbc, platelets, anemia, infection, leukocytosis, pcv",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Erythrocyte Sedimentation Rate (ESR)",
+    "Category": "Hematology",
+    "Price": 150,
+    "Keywords": "esr, inflammation, infection, fever, auto-immune, joint pain",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Absolute Eosinophil Count (AEC)",
+    "Category": "Hematology",
+    "Price": 220,
+    "Keywords": "aec, eosinophils, allergy, asthma, worm infection, skin allergy",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Peripheral Blood Smear Examination",
+    "Category": "Hematology",
+    "Price": 250,
+    "Keywords": "peripheral smear, blood morphology, abnormal cells, leukemia, malaria, anemia type",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Platelet Count",
+    "Category": "Hematology",
+    "Price": 200,
+    "Keywords": "platelet count, thrombocytopenia, dengue, bleeding, clotting, petechiae",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Reticulocyte Count",
+    "Category": "Hematology",
+    "Price": 350,
+    "Keywords": "reticulocyte, bone marrow activity, hemolytic anemia, blood loss, marrow response",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Hemoglobin (Hb)",
+    "Category": "Hematology",
+    "Price": 120,
+    "Keywords": "hb, hemoglobin, anemia, weakness, fatigue, blood level",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Packed Cell Volume (PCV / Hematocrit)",
+    "Category": "Hematology",
+    "Price": 180,
+    "Keywords": "pcv, hematocrit, dehydration, polycythemia, blood viscosity",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Total Leukocyte Count (TLC)",
+    "Category": "Hematology",
+    "Price": 150,
+    "Keywords": "tlc, wbc, white blood cells, infection, immunity, fever",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Differential Leukocyte Count (DLC)",
+    "Category": "Hematology",
+    "Price": 180,
+    "Keywords": "dlc, neutrophils, lymphocytes, monocytes, eosinophils, basophils",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Red Blood Cell (RBC) Count",
+    "Category": "Hematology",
+    "Price": 150,
+    "Keywords": "rbc, red blood cells, erythrocytosis, anemia, oxygen carrying",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Mean Corpuscular Volume (MCV)",
+    "Category": "Hematology",
+    "Price": 150,
+    "Keywords": "mcv, microcytic, macrocytic, vitamin b12, folate, iron deficiency",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Mean Corpuscular Hemoglobin (MCH)",
+    "Category": "Hematology",
+    "Price": 150,
+    "Keywords": "mch, hemoglobin per cell, hypochromic, normochromic",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Mean Corpuscular Hemoglobin Concentration (MCHC)",
+    "Category": "Hematology",
+    "Price": 150,
+    "Keywords": "mCHC, cell hemoglobin density, spherocytosis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Red Cell Distribution Width (RDW)",
+    "Category": "Hematology",
+    "Price": 180,
+    "Keywords": "rdw, anisocytosis, iron deficiency vs thalassemia, cell size variation",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Prothrombin Time with INR (PT/INR)",
+    "Category": "Coagulation Profile",
+    "Price": 450,
+    "Keywords": "pt inr, warfarin, oral anticoagulant, liver disease, bleeding disorder, extrinsic pathway",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Activated Partial Thromboplastin Time (APTT)",
+    "Category": "Coagulation Profile",
+    "Price": 550,
+    "Keywords": "aptt, heparin monitoring, hemophilia, intrinsic pathway, bleeding, thrombosis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Bleeding Time & Clotting Time (BT/CT)",
+    "Category": "Coagulation Profile",
+    "Price": 250,
+    "Keywords": "bt ct, platelet function, vascular fragility, surgical clearance",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Fibrinogen Level",
+    "Category": "Coagulation Profile",
+    "Price": 850,
+    "Keywords": "fibrinogen, dic, coagulation factor, liver synthesis, thrombosis risk",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "D-Dimer Quantitative",
+    "Category": "Coagulation Profile",
+    "Price": 1200,
+    "Keywords": "d-dimer, deep vein thrombosis, dvt, pulmonary embolism, pe, dic, blood clot",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Antithrombin III Activity",
+    "Category": "Coagulation Profile",
+    "Price": 2500,
+    "Keywords": "antithrombin 3, thrombophilia, heparin resistance, hereditary clot risk",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Protein C Activity",
+    "Category": "Coagulation Profile",
+    "Price": 2800,
+    "Keywords": "protein c, hereditary thrombophilia, dvt risk, hypercoagulable state",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Protein S Activity",
+    "Category": "Coagulation Profile",
+    "Price": 2800,
+    "Keywords": "protein s, venous thrombosis, hypercoagulation, blood clotting",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Lupus Anticoagulant (DRVVT & SCT)",
+    "Category": "Coagulation Profile",
+    "Price": 3200,
+    "Keywords": "lupus anticoagulant, antiphospholipid syndrome, apls, recurrent miscarriage, dvt",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Activated Protein C Resistance (APCR)",
+    "Category": "Coagulation Profile",
+    "Price": 3000,
+    "Keywords": "apcr, factor v leiden screening, venous thrombosis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Factor VIII Assay",
+    "Category": "Coagulation Profile",
+    "Price": 3500,
+    "Keywords": "factor 8, hemophilia a, von willebrand disease, bleeding disorder",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Factor IX Assay",
+    "Category": "Coagulation Profile",
+    "Price": 3500,
+    "Keywords": "factor 9, hemophilia b, christmas disease, spontaneous bleeding",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Factor XIII Qualitative",
+    "Category": "Coagulation Profile",
+    "Price": 2200,
+    "Keywords": "factor 13, delayed bleeding, wound healing failure, clot stability",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Von Willebrand Factor (vWF) Antigen",
+    "Category": "Coagulation Profile",
+    "Price": 4200,
+    "Keywords": "vwf, von willebrand disease, mucosal bleeding, heavy periods",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Hemoglobin Electrophoresis / HPLC",
+    "Category": "Hematology",
+    "Price": 1100,
+    "Keywords": "hplc, hemoglobinopathy, thalassemia major, thalassemia trait, sickle cell anemia",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Sickling Test (Sodium Metabisulfite)",
+    "Category": "Hematology",
+    "Price": 300,
+    "Keywords": "sickle cell, sickling test, HbS, painful crisis, anemia",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Osmotic Fragility Test",
+    "Category": "Hematology",
+    "Price": 600,
+    "Keywords": "osmotic fragility, hereditary spherocytosis, rbc membrane defect",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "G6PD Deficiency Quantitative",
+    "Category": "Hematology",
+    "Price": 850,
+    "Keywords": "g6pd, favism, drug induced hemolysis, jaundice, enzyme deficiency",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Coombs Test - Direct (DAT)",
+    "Category": "Hematology",
+    "Price": 500,
+    "Keywords": "direct coombs, dat, autoimmune hemolytic anemia, aiha, transfusion reaction, newborn jaundice",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Coombs Test - Indirect (IAT)",
+    "Category": "Hematology",
+    "Price": 550,
+    "Keywords": "indirect coombs, iat, Rh incompatibility, pregnancy screening, crossmatch",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Blood Group & Rh Factor",
+    "Category": "Hematology",
+    "Price": 150,
+    "Keywords": "blood group, abo, rh typing, blood transfusion, pregnancy compatibility",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Iron",
+    "Category": "Iron Studies",
+    "Price": 350,
+    "Keywords": "iron, anemia, fatigue, ferritin, sideropenic, microcytic",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Total Iron Binding Capacity (TIBC)",
+    "Category": "Iron Studies",
+    "Price": 450,
+    "Keywords": "tibc, transferrin capacity, iron deficiency, iron overload",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Unsaturated Iron Binding Capacity (UIBC)",
+    "Category": "Iron Studies",
+    "Price": 400,
+    "Keywords": "uibc, unbound iron capacity, hemochromatosis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Transferrin Saturation Percentage",
+    "Category": "Iron Studies",
+    "Price": 500,
+    "Keywords": "transferrin saturation, iron availability, hemochromatosis, anemia classification",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Ferritin",
+    "Category": "Iron Studies",
+    "Price": 800,
+    "Keywords": "ferritin, iron storage, acute phase reactant, iron deficiency, hemochromatosis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Transferrin",
+    "Category": "Iron Studies",
+    "Price": 900,
+    "Keywords": "transferrin, iron transport protein, malnutrition, liver synthesis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Malarial Parasite Smear (MP)",
+    "Category": "Infectious Diseases",
+    "Price": 200,
+    "Keywords": "malaria, mp smear, plasmodium vivax, falciparum, fever with chills, thick thin smear",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Malarial Parasite Antigen (Rapid Card)",
+    "Category": "Infectious Diseases",
+    "Price": 350,
+    "Keywords": "malaria antigen, pf pv rapid test, high fever, plasmodium, rapid diagnosis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Quantitative Buffy Coat (QBC) Malaria",
+    "Category": "Infectious Diseases",
+    "Price": 500,
+    "Keywords": "qbc malaria, fluorescent microscopy, low parasite count, fever investigation",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Filaria Antigen Test",
+    "Category": "Infectious Diseases",
+    "Price": 600,
+    "Keywords": "filaria, wuchereria bancrofti, elephantiasis, nocturnal fever, lymphatic filariasis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Microfilaria Smear (Night Sample)",
+    "Category": "Infectious Diseases",
+    "Price": 250,
+    "Keywords": "microfilaria, night blood sample, peripheral smear, filariasis, swelling",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Leishmaniasis (rK39 Antigen)",
+    "Category": "Infectious Diseases",
+    "Price": 1200,
+    "Keywords": "rk39, kala azar, visceral leishmaniasis, sandfly, prolonged fever, splenomegaly",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Donath Landsteiner Antibody",
+    "Category": "Hematology",
+    "Price": 1800,
+    "Keywords": "donath landsteiner, paroxysmal cold hemoglobinuria, pch, cold agglutinin",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Ham's Test (Acidified Serum Test)",
+    "Category": "Hematology",
+    "Price": 1500,
+    "Keywords": "hams test, paroxysmal nocturnal hemoglobinuria, pnh, intravascular hemolysis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "L.E. Cell Phenomenon",
+    "Category": "Hematology",
+    "Price": 450,
+    "Keywords": "le cell, systemic lupus erythematosus, sle, autoimmune disorder",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Sugar Water Test for PNH",
+    "Category": "Hematology",
+    "Price": 600,
+    "Keywords": "sugar water test, pnh screening, complement lysis, dark urine",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Bone Marrow Aspiration Cytology",
+    "Category": "Hematology",
+    "Price": 2500,
+    "Keywords": "bone marrow aspiration, leukemia, aplastic anemia, myeloma, unexplained cytopenia",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Bone Marrow Trephine Biopsy",
+    "Category": "Histopathology",
+    "Price": 3500,
+    "Keywords": "bone marrow biopsy, marrow fibrosis, granuloma, lymphoma staging, metastatic tumor",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Blood Sugar Fasting (FBS)",
+    "Category": "Diabetes Care",
+    "Price": 100,
+    "Keywords": "fbs, fasting blood sugar, glucose, diabetes, hyperglycemia, hypoglycemia",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Blood Sugar Post Prandial (PPBS)",
+    "Category": "Diabetes Care",
+    "Price": 100,
+    "Keywords": "ppbs, post prandial glucose, 2 hours after meal, diabetes management",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Blood Sugar Random (RBS)",
+    "Category": "Diabetes Care",
+    "Price": 100,
+    "Keywords": "rbs, random glucose, emergency blood sugar, diabetes screening",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "HbA1c (Glycated Hemoglobin)",
+    "Category": "Diabetes Care",
+    "Price": 450,
+    "Keywords": "hba1c, glycated hemoglobin, 3 months average sugar, diabetes monitoring, hplc",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Estimated Average Glucose (eAG)",
+    "Category": "Diabetes Care",
+    "Price": 150,
+    "Keywords": "eag, average blood sugar, hba1c correlation, daily glucose estimation",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Oral Glucose Tolerance Test (OGTT)",
+    "Category": "Diabetes Care",
+    "Price": 350,
+    "Keywords": "ogtt, gestational diabetes, pregnancy sugar test, glucose challenge, impaired tolerance",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Fasting Serum Insulin",
+    "Category": "Diabetes Care",
+    "Price": 750,
+    "Keywords": "fasting insulin, insulin resistance, homa-ir, pcos, hyperinsulinemia, metabolic syndrome",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Post Prandial Serum Insulin",
+    "Category": "Diabetes Care",
+    "Price": 800,
+    "Keywords": "pp insulin, insulin secretion after meal, pancreatic beta cell response",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "HOMA-IR (Insulin Resistance Index)",
+    "Category": "Diabetes Care",
+    "Price": 900,
+    "Keywords": "homa ir, insulin resistance, metabolic syndrome, prediabetes, fatty liver",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "C-Peptide Fasting",
+    "Category": "Diabetes Care",
+    "Price": 1100,
+    "Keywords": "c-peptide, endogenous insulin, type 1 vs type 2 diabetes, insulinoma",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "C-Peptide Post Prandial",
+    "Category": "Diabetes Care",
+    "Price": 1200,
+    "Keywords": "pp c peptide, beta cell reserve, post meal insulin production",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Anti-GAD 65 Antibodies",
+    "Category": "Diabetes Care",
+    "Price": 3200,
+    "Keywords": "gad 65, glutamic acid decarboxylase, type 1 diabetes, lada, autoimmune diabetes",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Anti-Insulin Antibodies (IAA)",
+    "Category": "Diabetes Care",
+    "Price": 2800,
+    "Keywords": "iaa, insulin antibodies, insulin resistance, autoimmune hypoglycemia",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Islet Cell Antibodies (ICA)",
+    "Category": "Diabetes Care",
+    "Price": 3500,
+    "Keywords": "islet cell antibody, type 1 diabetes risk, autoimmune insulitis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Urine Microalbumin (Spot)",
+    "Category": "Kidney Function",
+    "Price": 550,
+    "Keywords": "microalbumin, diabetic nephropathy, early kidney damage, proteinuria, hypertension",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Urine Microalbumin / Creatinine Ratio (UACR)",
+    "Category": "Kidney Function",
+    "Price": 750,
+    "Keywords": "uacr, albumin creatinine ratio, kidney screening, diabetes complication",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Fructosamine (Glycated Protein)",
+    "Category": "Diabetes Care",
+    "Price": 950,
+    "Keywords": "fructosamine, 2-3 week glucose control, gestational diabetes, hemoglobinopathy sugar test",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Creatinine",
+    "Category": "Kidney Function",
+    "Price": 180,
+    "Keywords": "creatinine, kidney function, renal failure, egfr, dialysis, creatinine clearance",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Blood Urea Nitrogen (BUN)",
+    "Category": "Kidney Function",
+    "Price": 180,
+    "Keywords": "bun, blood urea nitrogen, renal function, uremia, dehydration, kidney disease",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Urea",
+    "Category": "Kidney Function",
+    "Price": 150,
+    "Keywords": "urea, renal profile, kidney dysfunction, high protein diet, uremia",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "BUN / Creatinine Ratio",
+    "Category": "Kidney Function",
+    "Price": 220,
+    "Keywords": "bun creatinine ratio, prerenal azotemia, renal failure classification, dehydration",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Uric Acid",
+    "Category": "Kidney Function",
+    "Price": 200,
+    "Keywords": "uric acid, gout, hyperuricemia, joint pain, kidney stones, purine metabolism",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Sodium (Na+)",
+    "Category": "Kidney Function",
+    "Price": 180,
+    "Keywords": "sodium, electrolytes, hyponatremia, hypernatremia, dehydration, confusion",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Potassium (K+)",
+    "Category": "Kidney Function",
+    "Price": 180,
+    "Keywords": "potassium, electrolytes, hyperkalemia, hypokalemia, heart arrhythmia, kidney failure",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Chloride (Cl-)",
+    "Category": "Kidney Function",
+    "Price": 180,
+    "Keywords": "chloride, electrolytes, metabolic acidosis, alkalosis, fluid balance",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Bicarbonate (HCO3-)",
+    "Category": "Kidney Function",
+    "Price": 220,
+    "Keywords": "bicarbonate, hco3, acid base balance, abg, metabolic acidosis, kidney buffering",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Electrolytes Panel (Na, K, Cl)",
+    "Category": "Kidney Function",
+    "Price": 450,
+    "Keywords": "electrolytes, sodium, potassium, chloride, dehydration, kidney failure, weakness",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Calcium",
+    "Category": "Mineral Profile",
+    "Price": 220,
+    "Keywords": "calcium, total calcium, bone health, tetany, hypercalcemia, parathyroid, vitamin d",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Ionic / Ionized Calcium",
+    "Category": "Mineral Profile",
+    "Price": 450,
+    "Keywords": "ionized calcium, active calcium, critical care, acid base status, hypocalcemia",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Phosphorus / Phosphate",
+    "Category": "Mineral Profile",
+    "Price": 220,
+    "Keywords": "phosphorus, phosphate, bone metabolism, kidney disease, parathyroid, vitamin d",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Magnesium",
+    "Category": "Mineral Profile",
+    "Price": 450,
+    "Keywords": "magnesium, hypomagnesemia, muscle cramps, arrhythmia, alcoholism, preeclampsia",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Kidney Function Test (KFT / RFT)",
+    "Category": "Kidney Function",
+    "Price": 750,
+    "Keywords": "kft, rft, renal function test, urea, creatinine, uric acid, electrolytes, calcium, phosphorus",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "24-Hour Urine Protein",
+    "Category": "Kidney Function",
+    "Price": 450,
+    "Keywords": "24 hr urine protein, nephrotic syndrome, heavy proteinuria, glomerulonephritis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "24-Hour Urine Creatinine Clearance",
+    "Category": "Kidney Function",
+    "Price": 650,
+    "Keywords": "creatinine clearance, gfr, kidney filtration rate, renal impairment evaluation",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Urine Protein / Creatinine Ratio (UPCR)",
+    "Category": "Kidney Function",
+    "Price": 600,
+    "Keywords": "upcr, proteinuria, spot urine protein, kidney damage assessment",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Cystatin C",
+    "Category": "Kidney Function",
+    "Price": 1400,
+    "Keywords": "cystatin c, early kidney disease, accurate egfr, muscle mass independent kft",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "24-Hour Urine Uric Acid",
+    "Category": "Kidney Function",
+    "Price": 500,
+    "Keywords": "urine uric acid, gout, hyperuricosuria, kidney stone risk",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "24-Hour Urine Calcium",
+    "Category": "Kidney Function",
+    "Price": 500,
+    "Keywords": "urine calcium, hypercalciuria, kidney stones, osteoporosis, parathyroid",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "24-Hour Urine Oxalate",
+    "Category": "Kidney Function",
+    "Price": 1800,
+    "Keywords": "urine oxalate, hyperoxaluria, calcium oxalate stones, enteric oxalate",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "24-Hour Urine Citrate",
+    "Category": "Kidney Function",
+    "Price": 2200,
+    "Keywords": "urine citrate, hypocitraturia, kidney stone inhibitor, renal tubular acidosis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Bilirubin Total",
+    "Category": "Liver Function",
+    "Price": 150,
+    "Keywords": "total bilirubin, jaundice, yellow eyes, liver disease, hemolysis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Bilirubin Direct (Conjugated)",
+    "Category": "Liver Function",
+    "Price": 150,
+    "Keywords": "direct bilirubin, obstructive jaundice, gallstones, biliary obstruction, hepatitis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Bilirubin Indirect (Unconjugated)",
+    "Category": "Liver Function",
+    "Price": 150,
+    "Keywords": "indirect bilirubin, hemolytic jaundice, gilbert syndrome, rbc destruction",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "SGOT / AST (Aspartate Aminotransferase)",
+    "Category": "Liver Function",
+    "Price": 180,
+    "Keywords": "sgot, ast, liver enzyme, hepatitis, fatty liver, heart muscle, alcohol liver",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "SGPT / ALT (Alanine Aminotransferase)",
+    "Category": "Liver Function",
+    "Price": 180,
+    "Keywords": "sgpt, alt, liver inflammation, viral hepatitis, fatty liver, drug liver toxicity",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Alkaline Phosphatase (ALP)",
+    "Category": "Liver Function",
+    "Price": 200,
+    "Keywords": "alp, alkaline phosphatase, bile duct obstruction, bone liver disease, rickets",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Gamma Glutamyl Transferase (GGT)",
+    "Category": "Liver Function",
+    "Price": 400,
+    "Keywords": "ggt, gamma gt, alcohol liver disease, cholestasis, biliary tract disease",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Total Protein",
+    "Category": "Liver Function",
+    "Price": 150,
+    "Keywords": "total protein, albumin globulin, liver synthesis, malnutrition, kidney loss",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Albumin",
+    "Category": "Liver Function",
+    "Price": 150,
+    "Keywords": "albumin, chronic liver disease, ascites, edema, kidney loss, protein status",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Globulin",
+    "Category": "Liver Function",
+    "Price": 150,
+    "Keywords": "globulin, immunity, antibodies, multiple myeloma, chronic infection",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Albumin / Globulin (A/G) Ratio",
+    "Category": "Liver Function",
+    "Price": 180,
+    "Keywords": "a/g ratio, liver disease, chronic inflammation, kidney disease",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Liver Function Test (LFT)",
+    "Category": "Liver Function",
+    "Price": 750,
+    "Keywords": "lft, liver profile, bilirubin, sgot, sgpt, alp, ggt, total protein, albumin, globulin",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Adenosine Deaminase (ADA) - Liver / Fluid",
+    "Category": "Liver Function",
+    "Price": 550,
+    "Keywords": "ada, adenosine deaminase, tuberculosis, pleural effusion, tb peritonitis, meningitis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Bile Acids Total",
+    "Category": "Liver Function",
+    "Price": 1800,
+    "Keywords": "total bile acids, obstetric cholestasis, pregnancy itch, liver dysfunction",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Ammonia",
+    "Category": "Liver Function",
+    "Price": 1200,
+    "Keywords": "ammonia, hepatic encephalopathy, liver failure, urea cycle defects, confusion",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Ceruloplasmin",
+    "Category": "Liver Function",
+    "Price": 1400,
+    "Keywords": "ceruloplasmin, wilson disease, copper transport, kayser fleischer ring",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Copper",
+    "Category": "Mineral Profile",
+    "Price": 1500,
+    "Keywords": "copper, wilson disease, copper toxicity, malnutrition, menkes disease",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Alpha-1 Antitrypsin (A1AT)",
+    "Category": "Liver Function",
+    "Price": 2200,
+    "Keywords": "alpha 1 antitrypsin, a1at deficiency, emphysema, liver cirrhosis in young",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Total Cholesterol",
+    "Category": "Lipid Profile",
+    "Price": 180,
+    "Keywords": "cholesterol, total cholesterol, heart disease risk, lipid, hyperlipidemia",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Triglycerides",
+    "Category": "Lipid Profile",
+    "Price": 220,
+    "Keywords": "triglycerides, tg, fatty blood, pancreatitis risk, metabolic syndrome, high carbs",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "HDL Cholesterol (Good Cholesterol)",
+    "Category": "Lipid Profile",
+    "Price": 220,
+    "Keywords": "hdl, good cholesterol, cardiovascular protection, lipid clearance",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "LDL Cholesterol (Bad Cholesterol)",
+    "Category": "Lipid Profile",
+    "Price": 250,
+    "Keywords": "ldl, bad cholesterol, atherosclerosis, plaque, heart attack risk, statin target",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "VLDL Cholesterol",
+    "Category": "Lipid Profile",
+    "Price": 180,
+    "Keywords": "vldl, very low density lipoprotein, triglyceride rich, cardiac risk",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Non-HDL Cholesterol",
+    "Category": "Lipid Profile",
+    "Price": 200,
+    "Keywords": "non hdl, atherogenic particles, total cardiovascular risk, lipid target",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Lipid Profile Complete",
+    "Category": "Lipid Profile",
+    "Price": 650,
+    "Keywords": "lipid profile, cholesterol, triglycerides, hdl, ldl, vldl, cardiac risk, atherosclerosis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Apolipoprotein A1 (Apo A1)",
+    "Category": "Lipid Profile",
+    "Price": 850,
+    "Keywords": "apo a1, hdl component, protective cardiac factor, longevity marker",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Apolipoprotein B (Apo B)",
+    "Category": "Lipid Profile",
+    "Price": 850,
+    "Keywords": "apo b, ldl component, atherogenic particle count, advanced lipid risk",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Apo B / Apo A1 Ratio",
+    "Category": "Lipid Profile",
+    "Price": 1200,
+    "Keywords": "apo b a1 ratio, cardiovascular risk index, heart attack prediction",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Lipoprotein (a) [Lp(a)]",
+    "Category": "Lipid Profile",
+    "Price": 1100,
+    "Keywords": "lp(a), lipoprotein a, genetic heart attack risk, independent cardiac marker, stroke risk",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "High-Sensitivity C-Reactive Protein (hs-CRP)",
+    "Category": "Cardiac Markers",
+    "Price": 900,
+    "Keywords": "hs crp, cardiac inflammation, vascular risk, heart attack prediction, coronary disease",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Homocysteine",
+    "Category": "Cardiac Markers",
+    "Price": 1200,
+    "Keywords": "homocysteine, stroke risk, thrombosis, vitamin b12 deficiency, folate deficiency, arterial injury",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Creatine Kinase Total (CK / CPK)",
+    "Category": "Cardiac Markers",
+    "Price": 450,
+    "Keywords": "cpk, cpk total, muscle damage, rhabdomyolysis, heart attack, myositis, strenuous workout",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Creatine Kinase MB (CK-MB) Isoenzyme",
+    "Category": "Cardiac Markers",
+    "Price": 650,
+    "Keywords": "ck mb, heart muscle damage, myocardial infarction, acute chest pain",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Troponin I Quantitative",
+    "Category": "Cardiac Markers",
+    "Price": 1400,
+    "Keywords": "troponin i, trop i, heart attack, myocardial infarction, acute coronary syndrome, chest pain",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Troponin T High Sensitivity (hs-cTnT)",
+    "Category": "Cardiac Markers",
+    "Price": 1800,
+    "Keywords": "hs troponin t, acute myocardial infarction, early cardiac injury, emergency chest pain",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "NT-proBNP (N-Terminal proBNP)",
+    "Category": "Cardiac Markers",
+    "Price": 2800,
+    "Keywords": "nt probnp, heart failure, breathlessness, cardiac strain, bnp, congestive heart failure",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Myoglobin Serum",
+    "Category": "Cardiac Markers",
+    "Price": 1200,
+    "Keywords": "myoglobin, early muscle damage, early myocardial injury, kidney damage",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Lactate Dehydrogenase (LDH)",
+    "Category": "Biochemistry",
+    "Price": 450,
+    "Keywords": "ldh, cell breakdown, tissue damage, hemolysis, lymphoma, muscle injury",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Amylase",
+    "Category": "Pancreatic Markers",
+    "Price": 500,
+    "Keywords": "amylase, acute pancreatitis, severe abdominal pain, pancreatic inflammation",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Lipase",
+    "Category": "Pancreatic Markers",
+    "Price": 650,
+    "Keywords": "lipase, specific pancreatitis marker, pancreatic necrosis, abdominal pain",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Procalcitonin (PCT)",
+    "Category": "Infectious Diseases",
+    "Price": 2800,
+    "Keywords": "procalcitonin, sepsis, severe bacterial infection, antibiotic stewardship, septic shock",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Lactate",
+    "Category": "Biochemistry",
+    "Price": 900,
+    "Keywords": "lactate, lactic acidosis, sepsis, tissue hypoxia, shock, strenuous exercise",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Arterial Blood Gas (ABG)",
+    "Category": "Biochemistry",
+    "Price": 1200,
+    "Keywords": "abg, arterial blood gas, ph, pco2, po2, oxygenation, respiratory failure, acidosis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Total Triiodothyronine (Total T3)",
+    "Category": "Thyroid Profile",
+    "Price": 200,
+    "Keywords": "t3, total t3, thyroid hormone, hyperthyroidism, weight loss, palpitation",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Total Thyroxine (Total T4)",
+    "Category": "Thyroid Profile",
+    "Price": 200,
+    "Keywords": "t4, total t4, thyroxine, hypothyroidism, sluggishness, metabolism",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Thyroid Stimulating Hormone (TSH)",
+    "Category": "Thyroid Profile",
+    "Price": 220,
+    "Keywords": "tsh, thyroid stimulating hormone, ultra sensitive tsh, hypothyroidism, hyperthyroidism, weight gain",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Thyroid Profile Total (T3, T4, TSH)",
+    "Category": "Thyroid Profile",
+    "Price": 450,
+    "Keywords": "thyroid profile, t3 t4 tsh, thyroid screening, weight changes, fatigue, hair fall",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Free Triiodothyronine (Free T3 / FT3)",
+    "Category": "Thyroid Profile",
+    "Price": 350,
+    "Keywords": "ft3, free t3, unbound triiodothyronine, active thyroid hormone",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Free Thyroxine (Free T4 / FT4)",
+    "Category": "Thyroid Profile",
+    "Price": 350,
+    "Keywords": "ft4, free t4, unbound thyroxine, pregnancy thyroid, levothyroxine monitoring",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Thyroid Profile Free (FT3, FT4, TSH)",
+    "Category": "Thyroid Profile",
+    "Price": 850,
+    "Keywords": "free thyroid profile, ft3 ft4 tsh, accurate thyroid status, pregnancy, pituitary disorder",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Anti-Thyroid Peroxidase Antibodies (Anti-TPO)",
+    "Category": "Thyroid Profile",
+    "Price": 1100,
+    "Keywords": "anti tpo, hashimoto thyroiditis, autoimmune thyroiditis, hypothyroidism cause, anti microsomal",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Anti-Thyroglobulin Antibodies (Anti-TG)",
+    "Category": "Thyroid Profile",
+    "Price": 1200,
+    "Keywords": "anti tg, thyroglobulin antibody, thyroid autoimmunity, thyroid cancer follow up",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Thyroglobulin (TG)",
+    "Category": "Thyroid Profile",
+    "Price": 1500,
+    "Keywords": "thyroglobulin, thyroid cancer marker, post thyroidectomy recurrence, thyroiditis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "TSH Receptor Antibodies (TRAB)",
+    "Category": "Thyroid Profile",
+    "Price": 3200,
+    "Keywords": "trab, graves disease, hyperthyroidism cause, thyroid eye disease, exophthalmos",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Reverse T3 (rT3)",
+    "Category": "Thyroid Profile",
+    "Price": 3800,
+    "Keywords": "rt3, reverse t3, non thyroidal illness, euthyroid sick syndrome, stress hormone",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "25-Hydroxy Vitamin D Total (D2+D3)",
+    "Category": "Vitamin & Minerals",
+    "Price": 1200,
+    "Keywords": "vitamin d, 25 oh vit d, bone strength, osteoporosis, joint pain, immunity, sun vitamin",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Vitamin B12 (Cyanocobalamin)",
+    "Category": "Vitamin & Minerals",
+    "Price": 850,
+    "Keywords": "vitamin b12, b12, nerve weakness, tingling, numbness, megaloblastic anemia, vegetarian diet",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Folate (Vitamin B9)",
+    "Category": "Vitamin & Minerals",
+    "Price": 850,
+    "Keywords": "folate, folic acid, vitamin b9, neural tube defect, macrocytic anemia, pregnancy",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "RBC Folate",
+    "Category": "Vitamin & Minerals",
+    "Price": 1800,
+    "Keywords": "rbc folate, long term folate status, tissue folate stores",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Vitamin A (Retinol)",
+    "Category": "Vitamin & Minerals",
+    "Price": 2800,
+    "Keywords": "vitamin a, retinol, night blindness, dry eyes, immunity, skin health",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Vitamin E (Tocopherol)",
+    "Category": "Vitamin & Minerals",
+    "Price": 2800,
+    "Keywords": "vitamin e, tocopherol, antioxidant, ataxia, hemolysis, neuropathy",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Vitamin K1 (Phylloquinone)",
+    "Category": "Vitamin & Minerals",
+    "Price": 3200,
+    "Keywords": "vitamin k, coagulation, prothrombin production, bleeding in newborns, bone density",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Vitamin B1 (Thiamine)",
+    "Category": "Vitamin & Minerals",
+    "Price": 3000,
+    "Keywords": "vitamin b1, thiamine, beriberi, wernicke encephalopathy, alcoholism, weakness",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Vitamin B2 (Riboflavin)",
+    "Category": "Vitamin & Minerals",
+    "Price": 3000,
+    "Keywords": "vitamin b2, riboflavin, mouth ulcers, cheilitis, angular stomatitis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Vitamin B6 (Pyridoxal-5-Phosphate)",
+    "Category": "Vitamin & Minerals",
+    "Price": 3000,
+    "Keywords": "vitamin b6, pyridoxine, neuropathy, isoniazid toxicity, sideroblastic anemia",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Vitamin C (Ascorbic Acid)",
+    "Category": "Vitamin & Minerals",
+    "Price": 2500,
+    "Keywords": "vitamin c, ascorbic acid, scurvy, bleeding gums, wound healing, immunity",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Active Vitamin B12 (Holotranscobalamin)",
+    "Category": "Vitamin & Minerals",
+    "Price": 1500,
+    "Keywords": "active b12, holotranscobalamin, early b12 deficiency, functional b12",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Zinc",
+    "Category": "Mineral Profile",
+    "Price": 1200,
+    "Keywords": "zinc, hair loss, wound healing, immunity, taste loss, skin rash",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Selenium",
+    "Category": "Mineral Profile",
+    "Price": 2500,
+    "Keywords": "selenium, antioxidant, cardiomyopathy, thyroid function, immune defense",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Heavy Metal Panel (Pb, Hg, As, Cd)",
+    "Category": "Toxicology",
+    "Price": 4500,
+    "Keywords": "heavy metals, lead, mercury, arsenic, cadmium, industrial exposure, toxicity",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Lead Level",
+    "Category": "Toxicology",
+    "Price": 1400,
+    "Keywords": "lead, lead poisoning, anemia, abdominal colic, encephalopathy, battery worker",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Mercury Level",
+    "Category": "Toxicology",
+    "Price": 1800,
+    "Keywords": "mercury, seafood toxicity, tremor, renal tubular damage, neurotoxicity",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Arsenic Level",
+    "Category": "Toxicology",
+    "Price": 1800,
+    "Keywords": "arsenic, groundwater contamination, hyperkeratosis, neuropathy, toxicity",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Lithium Level",
+    "Category": "Therapeutic Drug Monitoring",
+    "Price": 800,
+    "Keywords": "lithium, bipolar disorder, therapeutic drug monitoring, mood stabilizer, toxicity",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Valproic Acid / Sodium Valproate Level",
+    "Category": "Therapeutic Drug Monitoring",
+    "Price": 900,
+    "Keywords": "valproic acid, depakote, epilepsy, seizure control, drug monitoring, hepatotoxicity",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Carbamazepine / Tegretol Level",
+    "Category": "Therapeutic Drug Monitoring",
+    "Price": 900,
+    "Keywords": "carbamazepine, tegretol, trigeminal neuralgia, seizures, drug level",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Phenytoin / Eptoin Level",
+    "Category": "Therapeutic Drug Monitoring",
+    "Price": 850,
+    "Keywords": "phenytoin, eptoin, seizure medication, therapeutic monitoring, ataxia, toxicity",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Digoxin Level",
+    "Category": "Therapeutic Drug Monitoring",
+    "Price": 1100,
+    "Keywords": "digoxin, lanoxin, heart failure, arrhythmia, digoxin toxicity, xanthopsia",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Tacrolimus Level (Whole Blood)",
+    "Category": "Therapeutic Drug Monitoring",
+    "Price": 2800,
+    "Keywords": "tacrolimus, FK506, kidney transplant, organ rejection, immunosuppression",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Cyclosporine Level (C0 / C2)",
+    "Category": "Therapeutic Drug Monitoring",
+    "Price": 2800,
+    "Keywords": "cyclosporine, organ transplant, immunosuppressive monitoring, nephrotoxicity",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Vancomycin Trough Level",
+    "Category": "Therapeutic Drug Monitoring",
+    "Price": 2200,
+    "Keywords": "vancomycin, antibiotic monitoring, mrsa treatment, ototoxicity, nephrotoxicity",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Theophylline Level",
+    "Category": "Therapeutic Drug Monitoring",
+    "Price": 1200,
+    "Keywords": "theophylline, asthma, copd, bronchodilator monitoring, tachycardia",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Follicle Stimulating Hormone (FSH)",
+    "Category": "Hormones",
+    "Price": 450,
+    "Keywords": "fsh, fertility, menopause, ovarian reserve, sperm count, irregular periods",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Luteinizing Hormone (LH)",
+    "Category": "Hormones",
+    "Price": 450,
+    "Keywords": "lh, ovulation, pcos, pcod, fertility, pituitary, amenorrhea",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Prolactin",
+    "Category": "Hormones",
+    "Price": 450,
+    "Keywords": "prolactin, galactorrhea, breast milk discharge, prolactinoma, irregular cycle, infertility",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Estradiol (E2)",
+    "Category": "Hormones",
+    "Price": 550,
+    "Keywords": "estradiol, e2, estrogen, ovarian function, menopause, ivf monitoring, gynecomastia",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Progesterone",
+    "Category": "Hormones",
+    "Price": 550,
+    "Keywords": "progesterone, ovulation confirmation, luteal phase, pregnancy maintenance, miscarriage",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Testosterone Total",
+    "Category": "Hormones",
+    "Price": 550,
+    "Keywords": "testosterone, male hormone, low libido, erectile dysfunction, muscle mass, pcos facial hair",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Testosterone Free (Direct)",
+    "Category": "Hormones",
+    "Price": 1200,
+    "Keywords": "free testosterone, active testosterone, hirsutism, hypogonadism, male menopause",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Dihydrotestosterone (DHT)",
+    "Category": "Hormones",
+    "Price": 2200,
+    "Keywords": "dht, male pattern baldness, hair loss, prostate enlargement, bph, acne",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Dehydroepiandrosterone Sulfate (DHEA-S)",
+    "Category": "Hormones",
+    "Price": 950,
+    "Keywords": "dhea-s, adrenal hormone, hirsutism, adrenal tumor, pcos, virilization",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Sex Hormone Binding Globulin (SHBG)",
+    "Category": "Hormones",
+    "Price": 1400,
+    "Keywords": "shbg, free testosterone calculation, insulin resistance, pcos, thyroid influence",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Androstenedione",
+    "Category": "Hormones",
+    "Price": 1800,
+    "Keywords": "androstenedione, adrenal androgen, congenital adrenal hyperplasia, pcos",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Anti-Mullerian Hormone (AMH)",
+    "Category": "Hormones",
+    "Price": 2200,
+    "Keywords": "amh, ovarian reserve, egg count, fertility potential, pcos, menopause timing",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Beta Human Chorionic Gonadotropin (Beta-hCG) Quantitative",
+    "Category": "Hormones",
+    "Price": 650,
+    "Keywords": "beta hcg, pregnancy test, ectopic pregnancy, molar pregnancy, miscarriage risk",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Beta-hCG Qualitative (Urine / Serum)",
+    "Category": "Hormones",
+    "Price": 200,
+    "Keywords": "pregnancy card test, urine hcg, missed period, early pregnancy",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Alpha-Fetoprotein (AFP) - Maternal / Tumor",
+    "Category": "Tumor Markers",
+    "Price": 850,
+    "Keywords": "afp, neural tube defect, down syndrome screening, liver cancer, hcc, germ cell tumor",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Cortisol (8 AM Morning)",
+    "Category": "Hormones",
+    "Price": 550,
+    "Keywords": "morning cortisol, stress hormone, cushing syndrome, addison disease, adrenal fatigue",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Cortisol (4 PM Afternoon)",
+    "Category": "Hormones",
+    "Price": 550,
+    "Keywords": "afternoon cortisol, diurnal rhythm, adrenal insufficiency, steroid suppression",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "24-Hour Urinary Free Cortisol",
+    "Category": "Hormones",
+    "Price": 1400,
+    "Keywords": "urine cortisol, cushing syndrome screening, hypercortisolism",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Adrenocorticotropic Hormone (ACTH)",
+    "Category": "Hormones",
+    "Price": 1800,
+    "Keywords": "acth, pituitary hormone, addison disease, cushing disease, adrenal failure",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Growth Hormone (GH / Somatotropin)",
+    "Category": "Hormones",
+    "Price": 950,
+    "Keywords": "growth hormone, acromegaly, gigantism, short stature, dwarfism, pituitary",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Insulin-Like Growth Factor 1 (IGF-1)",
+    "Category": "Hormones",
+    "Price": 2500,
+    "Keywords": "igf-1, somatomedin c, growth hormone monitoring, acromegaly, gh deficiency",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Parathyroid Hormone Intact (iPTH)",
+    "Category": "Hormones",
+    "Price": 1400,
+    "Keywords": "ipth, parathyroid, hyperparathyroidism, calcium regulation, renal osteodystrophy",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Calcitonin",
+    "Category": "Hormones",
+    "Price": 1800,
+    "Keywords": "calcitonin, medullary thyroid carcinoma, mtc, calcium lowering hormone",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Aldosterone",
+    "Category": "Hormones",
+    "Price": 1800,
+    "Keywords": "aldosterone, conn syndrome, primary aldosteronism, resistant hypertension, potassium wasting",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Direct Plasma Renin Activity (PRA)",
+    "Category": "Hormones",
+    "Price": 2200,
+    "Keywords": "plasma renin, renovascular hypertension, aldosterone renin ratio, kidney ischemia",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "17-Hydroxyprogesterone (17-OHP)",
+    "Category": "Hormones",
+    "Price": 1400,
+    "Keywords": "17-ohp, congenital adrenal hyperplasia, cah, ambiguous genitalia, hirsutism",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Erythropoietin (EPO)",
+    "Category": "Hormones",
+    "Price": 2800,
+    "Keywords": "erythropoietin, epo, polycythemia vera vs secondary, anemia of kidney failure",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Gastrin",
+    "Category": "Hormones",
+    "Price": 2200,
+    "Keywords": "gastrin, zollinger ellison syndrome, peptic ulcer, gastrinoma, hyperacidity",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Serotonin (5-HT)",
+    "Category": "Hormones",
+    "Price": 3200,
+    "Keywords": "serotonin, carcinoid syndrome, flushing, diarrhea, neuroendocrine tumor",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "24-Hour Urine Vanillylmandelic Acid (VMA)",
+    "Category": "Hormones",
+    "Price": 2200,
+    "Keywords": "vma, pheochromocytoma, neuroblastoma, catecholamine breakdown, severe hypertension",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Free Plasma Metanephrines",
+    "Category": "Hormones",
+    "Price": 3500,
+    "Keywords": "metanephrines, pheochromocytoma, adrenal tumor, episodic hypertension, palpitations",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Anti-Nuclear Antibodies (ANA) by IFA",
+    "Category": "Autoimmune Profile",
+    "Price": 950,
+    "Keywords": "ana, antinuclear antibody, immunofluorescence, sle, lupus, autoimmune disease, connective tissue",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "ANA Profile / Immunoblot (16 Antigens)",
+    "Category": "Autoimmune Profile",
+    "Price": 2800,
+    "Keywords": "ana profile, immunoblot, dsDNA, sm, rnp, ssa, ssb, scl-70, jo-1, lupus, scleroderma",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Anti-Double Stranded DNA (Anti-dsDNA)",
+    "Category": "Autoimmune Profile",
+    "Price": 1200,
+    "Keywords": "anti dsdna, sle, lupus nephritis, systemic lupus erythematosus, specific lupus test",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Anti-CCP Antibodies (Anti-Cyclic Citrullinated Peptide)",
+    "Category": "Autoimmune Profile",
+    "Price": 1400,
+    "Keywords": "anti ccp, rheumatoid arthritis, ra, early joint erosions, inflammatory arthritis, hand joint pain",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Rheumatoid Factor (RA Factor) Quantitative",
+    "Category": "Autoimmune Profile",
+    "Price": 450,
+    "Keywords": "ra factor, rheumatoid arthritis, joint stiffness, morning stiffness, hand swelling",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "C-Reactive Protein (CRP) Quantitative",
+    "Category": "Autoimmune Profile",
+    "Price": 400,
+    "Keywords": "crp, acute inflammation, bacterial infection, tissue injury, joint pain, post surgery",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Anti-Streptolysin O (ASO) Titre Quantitative",
+    "Category": "Autoimmune Profile",
+    "Price": 450,
+    "Keywords": "aso titre, rheumatic fever, post streptococcal glomerulonephritis, sore throat complication",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Anti-Ro / SSA Antibodies",
+    "Category": "Autoimmune Profile",
+    "Price": 1200,
+    "Keywords": "anti ro, ssa, sjogren syndrome, dry eyes, dry mouth, neonatal lupus",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Anti-La / SSB Antibodies",
+    "Category": "Autoimmune Profile",
+    "Price": 1200,
+    "Keywords": "anti la, ssb, sjogren, lupus, connective tissue disease",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Anti-Smith (Anti-Sm) Antibodies",
+    "Category": "Autoimmune Profile",
+    "Price": 1200,
+    "Keywords": "anti sm, highly specific sle marker, lupus flare, autoimmune",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Anti-RNP Antibodies",
+    "Category": "Autoimmune Profile",
+    "Price": 1200,
+    "Keywords": "anti rnp, mixed connective tissue disease, mctd, raynaud phenomenon",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Anti-Scl-70 (Topoisomerase I) Antibodies",
+    "Category": "Autoimmune Profile",
+    "Price": 1400,
+    "Keywords": "anti scl 70, systemic sclerosis, scleroderma, tight skin, raynaud",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Anti-Jo-1 Antibodies",
+    "Category": "Autoimmune Profile",
+    "Price": 1400,
+    "Keywords": "anti jo 1, polymyositis, dermatomyositis, interstitial lung disease, muscle weakness",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Anti-Centromere Antibodies (ACA)",
+    "Category": "Autoimmune Profile",
+    "Price": 1500,
+    "Keywords": "anti centromere, crest syndrome, limited cutaneous systemic sclerosis, raynaud",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "ANCA (p-ANCA & c-ANCA) IFA",
+    "Category": "Autoimmune Profile",
+    "Price": 2200,
+    "Keywords": "anca, granulomatosis with polyangiitis, wegener, microscopic polyangiitis, vasculitis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Anti-PR3 Antibodies (c-ANCA)",
+    "Category": "Autoimmune Profile",
+    "Price": 1400,
+    "Keywords": "anti pr3, c-anca, wegener granulomatosis, pulmonary renal syndrome, vasculitis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Anti-MPO Antibodies (p-ANCA)",
+    "Category": "Autoimmune Profile",
+    "Price": 1400,
+    "Keywords": "anti mpo, p-anca, microscopic polyangiitis, churg strauss, crescentic gnephritis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Anti-Cardiolipin Antibodies (ACL IgA/IgG/IgM)",
+    "Category": "Autoimmune Profile",
+    "Price": 1500,
+    "Keywords": "acl antibodies, cardiolipin, apls, recurrent pregnancy loss, stroke in young",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Anti-Beta-2 Glycoprotein 1 Antibodies (IgG/IgM)",
+    "Category": "Autoimmune Profile",
+    "Price": 1800,
+    "Keywords": "anti beta 2 glycoprotein, antiphospholipid syndrome, arterial thrombosis, miscarriage",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Anti-Tissue Transglutaminase IgA (Anti-tTG IgA)",
+    "Category": "Autoimmune Profile",
+    "Price": 1200,
+    "Keywords": "anti ttg iga, celiac disease, gluten allergy, chronic diarrhea, malabsorption, wheat sensitivity",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Anti-Tissue Transglutaminase IgG (Anti-tTG IgG)",
+    "Category": "Autoimmune Profile",
+    "Price": 1200,
+    "Keywords": "anti ttg igg, celiac in iga deficiency, gluten enteropathy",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Anti-Endomysial IgA Antibodies (EMA)",
+    "Category": "Autoimmune Profile",
+    "Price": 1800,
+    "Keywords": "anti endomysial, ema, gold standard celiac test, gluten intolerance, villous atrophy",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Anti-Smooth Muscle Antibodies (ASMA)",
+    "Category": "Autoimmune Profile",
+    "Price": 1500,
+    "Keywords": "asma, autoimmune hepatitis, chronic liver inflammation, elevated sgot sgpt",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Anti-Mitochondrial Antibodies (AMA-M2)",
+    "Category": "Autoimmune Profile",
+    "Price": 1800,
+    "Keywords": "ama m2, primary biliary cholangitis, pbc, cholestasis, itching, alp elevation",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Anti-Liver Kidney Microsome 1 (Anti-LKM-1)",
+    "Category": "Autoimmune Profile",
+    "Price": 1800,
+    "Keywords": "anti lkm 1, type 2 autoimmune hepatitis, pediatric autoimmune liver disease",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Anti-Glamerular Basement Membrane (Anti-GBM)",
+    "Category": "Autoimmune Profile",
+    "Price": 2200,
+    "Keywords": "anti gbm, goodpasture syndrome, pulmonary hemorrhage, rapidly progressive glomerulonephritis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Complement C3",
+    "Category": "Autoimmune Profile",
+    "Price": 850,
+    "Keywords": "complement c3, lupus nephritis flare, glomerulonephritis, immune complex consumption",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Complement C4",
+    "Category": "Autoimmune Profile",
+    "Price": 850,
+    "Keywords": "complement c4, sle activity, hereditary angioedema, complement deficiency",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Total IgE Level",
+    "Category": "Allergy Diagnostics",
+    "Price": 600,
+    "Keywords": "total ige, allergy, asthma, allergic rhinitis, eczema, parasitic infection, hives",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Food Allergy Panel (60 Allergens - IgE)",
+    "Category": "Allergy Diagnostics",
+    "Price": 5500,
+    "Keywords": "food allergy, nut allergy, seafood, milk, egg, wheat, hives, anaphylaxis, food intolerance",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Respiratory Allergy Panel (30 Allergens - IgE)",
+    "Category": "Allergy Diagnostics",
+    "Price": 4500,
+    "Keywords": "respiratory allergy, dust mite, pollen, pet dander, mold, sneezing, asthma, rhinitis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Comprehensive Allergy Panel (100+ Allergens)",
+    "Category": "Allergy Diagnostics",
+    "Price": 8500,
+    "Keywords": "comprehensive allergy, full allergy panel, skin allergy, food, inhalants, IgE",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Pediatric Allergy Panel",
+    "Category": "Allergy Diagnostics",
+    "Price": 4000,
+    "Keywords": "pediatric allergy, infant eczema, milk allergy, egg allergy, childhood asthma",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Milk Specific IgE",
+    "Category": "Allergy Diagnostics",
+    "Price": 1200,
+    "Keywords": "milk allergy, lactose vs milk protein, cow milk IgE, infant vomiting",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Egg White Specific IgE",
+    "Category": "Allergy Diagnostics",
+    "Price": 1200,
+    "Keywords": "egg allergy, ovalbumin, egg white IgE, childhood eczema",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Peanut Specific IgE",
+    "Category": "Allergy Diagnostics",
+    "Price": 1200,
+    "Keywords": "peanut allergy, anaphylaxis, severe nut reaction, Ara h 8",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Dust Mite Specific IgE (D. pteronyssinus)",
+    "Category": "Allergy Diagnostics",
+    "Price": 1200,
+    "Keywords": "dust mite allergy, house dust, morning sneezing, perennial asthma",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Gluten Specific IgE",
+    "Category": "Allergy Diagnostics",
+    "Price": 1200,
+    "Keywords": "gluten allergy, wheat allergy, baker asthma, immediate hypersensitivity",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Absolute Eosinophil Cationic Protein (ECP)",
+    "Category": "Allergy Diagnostics",
+    "Price": 2800,
+    "Keywords": "ecp, eosinophil activation, asthma severity monitoring, allergic inflammation",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Tryptase",
+    "Category": "Allergy Diagnostics",
+    "Price": 3800,
+    "Keywords": "tryptase, mast cell activation, anaphylaxis confirmation, mastocytosis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "C1 Esterase Inhibitor Level",
+    "Category": "Autoimmune Profile",
+    "Price": 2500,
+    "Keywords": "c1 esterase, hereditary angioedema, unexplained swelling, facial edema",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Immunoglobulin A (IgA) Quantitative",
+    "Category": "Immunology",
+    "Price": 750,
+    "Keywords": "iga, mucosal immunity, iga deficiency, recurrent respiratory infection, celiac panel",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Immunoglobulin G (IgG) Quantitative",
+    "Category": "Immunology",
+    "Price": 750,
+    "Keywords": "igg, humoral immunity, recurrent bacterial infection, hypogammaglobulinemia",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Immunoglobulin M (IgM) Quantitative",
+    "Category": "Immunology",
+    "Price": 750,
+    "Keywords": "igm, acute primary immune response, waldenstrom macroglobulinemia, hyper igm",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Immunoglobulin E (IgE) Quantitative",
+    "Category": "Immunology",
+    "Price": 600,
+    "Keywords": "ige, allergic disease, hyper ige syndrome, helminthic parasite",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "CD4 / CD8 Lymphocyte Count Panel",
+    "Category": "Immunology",
+    "Price": 2200,
+    "Keywords": "cd4 cd8, hiv immune monitoring, helper t cells, immune deficiency, viral load companion",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Prostate Specific Antigen Total (PSA Total)",
+    "Category": "Tumor Markers",
+    "Price": 750,
+    "Keywords": "psa, prostate cancer, bph, prostate enlargement, urinary difficulty, male cancer screening",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Free PSA (fPSA)",
+    "Category": "Tumor Markers",
+    "Price": 1100,
+    "Keywords": "free psa, fpsa ratio, prostate biopsy decision, elevated psa evaluation",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "PSA Ratio (Free / Total PSA)",
+    "Category": "Tumor Markers",
+    "Price": 1400,
+    "Keywords": "psa ratio, prostate cancer risk calculation, benign vs malignant prostate",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Carcinoembryonic Antigen (CEA)",
+    "Category": "Tumor Markers",
+    "Price": 850,
+    "Keywords": "cea, colon cancer, colorectal carcinoma, smoking tumor marker, gi malignancy",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Cancer Antigen 125 (CA-125)",
+    "Category": "Tumor Markers",
+    "Price": 1200,
+    "Keywords": "ca 125, ovarian cancer, pelvic mass, endometriosis, fibroid, ovarian cyst",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Cancer Antigen 19-9 (CA 19-9)",
+    "Category": "Tumor Markers",
+    "Price": 1300,
+    "Keywords": "ca 19-9, pancreatic cancer, cholangiocarcinoma, gall bladder tumor, jaundice tumor marker",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Cancer Antigen 15-3 (CA 15-3)",
+    "Category": "Tumor Markers",
+    "Price": 1300,
+    "Keywords": "ca 15-3, breast cancer, breast tumor recurrence, metastatic breast disease",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Alpha-Fetoprotein (AFP) Tumor Marker",
+    "Category": "Tumor Markers",
+    "Price": 850,
+    "Keywords": "afp, hepatocellular carcinoma, liver cancer, testicular germ cell tumor",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Beta-2 Microglobulin Serum",
+    "Category": "Tumor Markers",
+    "Price": 1200,
+    "Keywords": "beta 2 microglobulin, multiple myeloma, lymphoma prognosis, renal tubular clearance",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Protein Electrophoresis (SPEP)",
+    "Category": "Tumor Markers",
+    "Price": 950,
+    "Keywords": "spep, m spike, monoclonal gammopathy, mgus, multiple myeloma, globulin breakdown",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Immunofixation Electrophoresis (IFE)",
+    "Category": "Tumor Markers",
+    "Price": 2800,
+    "Keywords": "ife, immunofixation, IgG IgA IgM kappa lambda, myeloma confirmation, light chain",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Free Kappa and Lambda Light Chains (Serum)",
+    "Category": "Tumor Markers",
+    "Price": 3500,
+    "Keywords": "free light chains, kappa lambda ratio, light chain myeloma, amyloidosis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Urine Bence Jones Protein (Qualitative)",
+    "Category": "Tumor Markers",
+    "Price": 300,
+    "Keywords": "bence jones, multiple myeloma, urine light chains, proteinuria",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "24-Hour Urine Protein Electrophoresis",
+    "Category": "Tumor Markers",
+    "Price": 1500,
+    "Keywords": "urine spep, bence jones quantitative, renal light chain loss",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Human Epididymis Protein 4 (HE4)",
+    "Category": "Tumor Markers",
+    "Price": 2800,
+    "Keywords": "he4, ovarian cancer, ca-125 companion, roma algorithm, pelvic mass",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "ROMA Risk Algorithm (CA-125 + HE4)",
+    "Category": "Tumor Markers",
+    "Price": 3800,
+    "Keywords": "roma index, ovarian malignancy risk, premenopausal postmenopausal mass",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Chromogranin A (CgA)",
+    "Category": "Tumor Markers",
+    "Price": 3800,
+    "Keywords": "chromogranin a, neuroendocrine tumor, net, carcinoid, pheochromocytoma",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Neuron Specific Enolase (NSE)",
+    "Category": "Tumor Markers",
+    "Price": 2200,
+    "Keywords": "nse, small cell lung cancer, neuroblastoma, brain injury",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Squamous Cell Carcinoma Antigen (SCC)",
+    "Category": "Tumor Markers",
+    "Price": 2500,
+    "Keywords": "scc antigen, cervical cancer, esophageal carcinoma, head and neck cancer",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "S-100 Protein",
+    "Category": "Tumor Markers",
+    "Price": 3200,
+    "Keywords": "s100, melanoma marker, brain damage, neurodegenerative marker",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "CYFRA 21-1 (Cytokeratin 19 Fragment)",
+    "Category": "Tumor Markers",
+    "Price": 2500,
+    "Keywords": "cyfra 21-1, non small cell lung cancer, nsclc, bladder cancer",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Prostatic Acid Phosphatase (PAP)",
+    "Category": "Tumor Markers",
+    "Price": 800,
+    "Keywords": "pap, metastatic prostate cancer, bone metastasis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "HIV 1 & 2 Antibodies / p24 Antigen (4th Gen)",
+    "Category": "Serology",
+    "Price": 500,
+    "Keywords": "hiv 4th generation, hiv duo, p24 antigen, aids screening, safe sex test",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "HBsAg (Hepatitis B Surface Antigen)",
+    "Category": "Serology",
+    "Price": 400,
+    "Keywords": "hbsag, hepatitis b, australia antigen, liver infection, jaundice, viral hepatitis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Anti-HCV Antibodies Total",
+    "Category": "Serology",
+    "Price": 600,
+    "Keywords": "anti hcv, hepatitis c, liver virus, blood transfusion screening, jaundice",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "VDRL / RPR for Syphilis",
+    "Category": "Serology",
+    "Price": 250,
+    "Keywords": "vdrl, rpr, syphilis, treponema pallidum, std screening, genital ulcer",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "TPHA (Treponema Pallidum Hemagglutination)",
+    "Category": "Serology",
+    "Price": 550,
+    "Keywords": "tpha, syphilis confirmation, treponemal test, neurosyphilis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Widal Slide & Tube Test",
+    "Category": "Serology",
+    "Price": 250,
+    "Keywords": "widal, typhoid fever, salmonella typhi, enteric fever, O and H agglutinins",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Typhidot IgM & IgG",
+    "Category": "Serology",
+    "Price": 500,
+    "Keywords": "typhidot, rapid typhoid, salmonella IgM, acute enteric fever",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Dengue NS1 Antigen (Rapid / ELISA)",
+    "Category": "Serology",
+    "Price": 600,
+    "Keywords": "dengue ns1, early dengue, high fever, mosquito fever, dengue antigen",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Dengue IgM & IgG Antibodies",
+    "Category": "Serology",
+    "Price": 650,
+    "Keywords": "dengue igm igg, secondary dengue, dengue fever confirmation, platelet drop",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Chikungunya IgM Antibodies",
+    "Category": "Serology",
+    "Price": 750,
+    "Keywords": "chikungunya, joint pain fever, mosquito infection, chik IgM",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Leptospira IgM Antibodies",
+    "Category": "Serology",
+    "Price": 850,
+    "Keywords": "leptospira, leptospirosis, rat fever, monsoon fever, jaundice with renal failure",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Scrub Typhus IgM Antibodies",
+    "Category": "Serology",
+    "Price": 950,
+    "Keywords": "scrub typhus, orientia tsutsugamushi, eschar, mite fever, acute fever",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Hepatitis A Virus IgM (Anti-HAV IgM)",
+    "Category": "Serology",
+    "Price": 750,
+    "Keywords": "anti hav igm, acute hepatitis a, waterborne jaundice, acute liver failure in kids",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Hepatitis E Virus IgM (Anti-HEV IgM)",
+    "Category": "Serology",
+    "Price": 850,
+    "Keywords": "anti hev igm, acute hepatitis e, pregnancy jaundice, waterborne hepatitis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Anti-HBs Antibodies (Quantitative)",
+    "Category": "Serology",
+    "Price": 650,
+    "Keywords": "anti hbs, hepatitis b immunity, vaccine response check, protective antibody",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Anti-HBc Total Antibodies",
+    "Category": "Serology",
+    "Price": 800,
+    "Keywords": "anti hbc total, core antibody, past hepatitis b infection, occult hepatitis b",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Anti-HBc IgM Antibodies",
+    "Category": "Serology",
+    "Price": 900,
+    "Keywords": "anti hbc igm, acute hepatitis b infection, window period hepatitis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "HBeAg (Hepatitis B e-Antigen)",
+    "Category": "Serology",
+    "Price": 950,
+    "Keywords": "hbeag, hepatitis b infectivity, viral replication, chronic hbv treatment target",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Anti-HBe Antibodies",
+    "Category": "Serology",
+    "Price": 950,
+    "Keywords": "anti hbe, seroconversion, low replication hepatitis b",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Toxoplasma IgM Antibody",
+    "Category": "Serology",
+    "Price": 600,
+    "Keywords": "toxoplasma igm, acute toxoplasmosis, cat feces infection, pregnancy TORCH",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Toxoplasma IgG Antibody",
+    "Category": "Serology",
+    "Price": 600,
+    "Keywords": "toxoplasma igg, past toxoplasma infection, TORCH immunity",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Rubella IgM Antibody",
+    "Category": "Serology",
+    "Price": 600,
+    "Keywords": "rubella igm, german measles acute, congenital rubella syndrome, TORCH",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Rubella IgG Antibody",
+    "Category": "Serology",
+    "Price": 600,
+    "Keywords": "rubella igg, rubella immunity, pre pregnancy screening",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Cytomegalovirus (CMV) IgM Antibody",
+    "Category": "Serology",
+    "Price": 600,
+    "Keywords": "cmv igm, acute cytomegalovirus, TORCH, immunocompromised fever",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Cytomegalovirus (CMV) IgG Antibody",
+    "Category": "Serology",
+    "Price": 600,
+    "Keywords": "cmv igg, cmv immunity, transplant donor recipient check",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Herpes Simplex Virus 1 & 2 IgM (HSV 1+2 IgM)",
+    "Category": "Serology",
+    "Price": 800,
+    "Keywords": "hsv igm, acute herpes, cold sores, genital herpes, HSV 1 2",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Herpes Simplex Virus 1 IgG (HSV-1 IgG)",
+    "Category": "Serology",
+    "Price": 650,
+    "Keywords": "hsv 1 igg, oral herpes, cold sore immunity, fever blister",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Herpes Simplex Virus 2 IgG (HSV-2 IgG)",
+    "Category": "Serology",
+    "Price": 650,
+    "Keywords": "hsv 2 igg, genital herpes, std screening, painful genital vesicles",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "TORCH Panel 8 Parameters",
+    "Category": "Serology",
+    "Price": 2200,
+    "Keywords": "torch 8, toxo rubella cmv hsv igm igg, pregnancy panel, congenital defect prevention",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "TORCH Panel 10 Parameters",
+    "Category": "Serology",
+    "Price": 2800,
+    "Keywords": "torch 10, comprehensive torch, habitual abortion, fetal loss panel",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Epstein-Barr Virus (EBV) VCA IgM",
+    "Category": "Serology",
+    "Price": 1200,
+    "Keywords": "ebv igm, infectious mononucleosis, glandular fever, kissing disease, splenomegaly",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "EBV Nuclear Antigen (EBNA) IgG",
+    "Category": "Serology",
+    "Price": 1200,
+    "Keywords": "ebna igg, past ebv infection, mononucleosis recovery",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Hydatid Cyst IgG Antibody (Echinococcus)",
+    "Category": "Serology",
+    "Price": 1400,
+    "Keywords": "hydatid cyst, echinococcus, dog tapeworm, liver cyst, eosinophilia",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Amoebic Serology (Entamoeba histolytica IgG)",
+    "Category": "Serology",
+    "Price": 900,
+    "Keywords": "amoebic antibody, liver abscess, amoebic dysentery, entamoeba",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Brucella IgM & IgG Antibodies",
+    "Category": "Serology",
+    "Price": 1200,
+    "Keywords": "brucellosis, undulant fever, unpasteurized milk, brucella, joint pain fever",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Helicobacter Pylori IgG Antibody",
+    "Category": "Serology",
+    "Price": 850,
+    "Keywords": "h pylori, stomach ulcer, gastritis, hyperacidity, h pylori antibody",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "QuantiFERON-TB Gold (IGRA TB Test)",
+    "Category": "Infectious Diseases",
+    "Price": 3200,
+    "Keywords": "quantiferon, tb gold, igra, latent tuberculosis, tb infection, interferon gamma release",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Mantoux Tuberculin Skin Test (PPD)",
+    "Category": "Infectious Diseases",
+    "Price": 200,
+    "Keywords": "mantoux, ppd, tuberculin skin test, tb screening, induration",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Urine Routine & Microscopic Examination",
+    "Category": "Urine Analysis",
+    "Price": 150,
+    "Keywords": "urine routine, urine microscopy, pus cells, rbc, albumin, sugar, uti, kidney stone",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Urine Ketone Bodies",
+    "Category": "Urine Analysis",
+    "Price": 100,
+    "Keywords": "urine ketones, diabetic ketoacidosis, dka, starvation, fat burning",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Urine Bile Salts & Bile Pigments",
+    "Category": "Urine Analysis",
+    "Price": 120,
+    "Keywords": "bile salts pigments, urine bilirubin, urobilinogen, obstructive jaundice",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Urine Specific Gravity",
+    "Category": "Urine Analysis",
+    "Price": 100,
+    "Keywords": "specific gravity, urine concentration, diabetes insipidus, hydration status",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Urine Pregnancy Test (UPT Card)",
+    "Category": "Urine Analysis",
+    "Price": 150,
+    "Keywords": "upt, urine pregnancy, hcg card, missed period",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Urine Bence Jones Protein Qualitative",
+    "Category": "Urine Analysis",
+    "Price": 250,
+    "Keywords": "bence jones urine, multiple myeloma, heat precipitation test",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Urine Myoglobin",
+    "Category": "Urine Analysis",
+    "Price": 1200,
+    "Keywords": "urine myoglobin, rhabdomyolysis, tea colored urine, severe muscle crush",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Urine Porphobilinogen (PBG)",
+    "Category": "Urine Analysis",
+    "Price": 1800,
+    "Keywords": "pbg, acute intermittent porphyria, red urine, severe abdominal pain",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "24-Hour Urine Sodium & Potassium",
+    "Category": "Urine Analysis",
+    "Price": 600,
+    "Keywords": "urine sodium potassium, fractional excretion of sodium, fena, aldosterone effect",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Urine Dysmorphic RBCs (Phase Contrast)",
+    "Category": "Urine Analysis",
+    "Price": 500,
+    "Keywords": "dysmorphic rbc, glomerular hematuria, glomerulonephritis vs stone bleeding",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Urine Drug Screen Panel (5 Drugs)",
+    "Category": "Toxicology",
+    "Price": 1800,
+    "Keywords": "urine drug test, 5 panel, thc, cocaine, opiates, amphetamine, bzo, abuse screen",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Urine Drug Screen Panel (10 Drugs)",
+    "Category": "Toxicology",
+    "Price": 3200,
+    "Keywords": "10 panel drug test, comprehensive toxicology, employment drug screen",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Urine Nicotine / Cotinine Test",
+    "Category": "Toxicology",
+    "Price": 800,
+    "Keywords": "cotinine, urine nicotine, smoking validation, insurance health check",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Urine Alcohol / Ethanol Quantitative",
+    "Category": "Toxicology",
+    "Price": 900,
+    "Keywords": "urine alcohol, ethanol level, intoxication screening",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Stool Routine & Microscopic Examination",
+    "Category": "Stool Analysis",
+    "Price": 150,
+    "Keywords": "stool routine, stool microscopy, ova, cysts, parasites, amoeba, pus cells, diarrhea",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Stool Occult Blood (FOBT)",
+    "Category": "Stool Analysis",
+    "Price": 250,
+    "Keywords": "occult blood, fobt, colon cancer screening, gastrointestinal bleeding, dark stool",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Stool Reducing Sugars",
+    "Category": "Stool Analysis",
+    "Price": 180,
+    "Keywords": "reducing sugar, lactose intolerance, infantile diarrhea, acidic stool",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Stool pH",
+    "Category": "Stool Analysis",
+    "Price": 100,
+    "Keywords": "stool ph, carbohydrate malabsorption, acidic diarrhea",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Stool Hanging Drop for Vibrio Cholerae",
+    "Category": "Stool Analysis",
+    "Price": 200,
+    "Keywords": "hanging drop, cholera, rice water stool, vibrio motility",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Stool Calprotectin Quantitative",
+    "Category": "Stool Analysis",
+    "Price": 2800,
+    "Keywords": "calprotectin, inflammatory bowel disease, ibd, crohn disease, ulcerative colitis vs ibs",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Stool Pancreatic Elastase-1",
+    "Category": "Stool Analysis",
+    "Price": 3500,
+    "Keywords": "pancreatic elastase, exocrine pancreatic insufficiency, chronic pancreatitis, steatorrhea",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Stool Clostridium Difficile Toxin A & B",
+    "Category": "Stool Analysis",
+    "Price": 2200,
+    "Keywords": "c diff, toxin a b, antibiotic associated diarrhea, pseudomembranous colitis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Stool Helicobacter Pylori Antigen",
+    "Category": "Stool Analysis",
+    "Price": 1400,
+    "Keywords": "h pylori stool antigen, active stomach infection, ulcer treatment monitoring",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Stool Rotavirus & Adenovirus Antigen",
+    "Category": "Stool Analysis",
+    "Price": 1200,
+    "Keywords": "rotavirus, viral gastroenteritis, infant watery diarrhea, adenovirus",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Stool Giardia Lamblia Antigen",
+    "Category": "Stool Analysis",
+    "Price": 950,
+    "Keywords": "giardia antigen, traveler diarrhea, bloating, giardiasis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Stool Cryptosporidium Stain (Modified ZN)",
+    "Category": "Stool Analysis",
+    "Price": 450,
+    "Keywords": "cryptosporidium, modified zn stain, chronic watery diarrhea in aids",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Stool Fat Stain (Sudan III)",
+    "Category": "Stool Analysis",
+    "Price": 300,
+    "Keywords": "sudan 3, steatorrhea, malabsorption, greasy stool, fat in stool",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Urine Culture & Antibiotic Sensitivity",
+    "Category": "Microbiology",
+    "Price": 650,
+    "Keywords": "urine culture, uti, bacterial infection, antibiotic sensitivity, dysuria, e coli",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Blood Culture & Sensitivity (Automated Bactec)",
+    "Category": "Microbiology",
+    "Price": 1400,
+    "Keywords": "blood culture, bactec, bacteremia, sepsis, typhoid, prolonged fever, chills",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Sputum Culture & Sensitivity",
+    "Category": "Microbiology",
+    "Price": 650,
+    "Keywords": "sputum culture, chest infection, pneumonia, bronchitis, purulent sputum",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Stool Culture & Sensitivity",
+    "Category": "Microbiology",
+    "Price": 700,
+    "Keywords": "stool culture, dysentery, salmonella, shigella, cholera, food poisoning",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Pus Swab Culture & Sensitivity",
+    "Category": "Microbiology",
+    "Price": 650,
+    "Keywords": "pus culture, wound infection, abscess, boil, staphylococcus, wound healing",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Throat Swab Culture & Sensitivity",
+    "Category": "Microbiology",
+    "Price": 600,
+    "Keywords": "throat culture, strep throat, tonsillitis, pharyngitis, sore throat",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "High Vaginal Swab (HVS) Culture",
+    "Category": "Microbiology",
+    "Price": 750,
+    "Keywords": "hvs culture, vaginal discharge, candidiasis, bacterial vaginosis, trichomonas",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Semen Culture & Sensitivity",
+    "Category": "Microbiology",
+    "Price": 800,
+    "Keywords": "semen culture, male genital infection, prostatitis, oligospermia cause",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "CSF Culture & Sensitivity",
+    "Category": "Microbiology",
+    "Price": 1200,
+    "Keywords": "csf culture, meningitis, spinal fluid, stiff neck, severe headache",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Pleural Fluid Culture & Sensitivity",
+    "Category": "Microbiology",
+    "Price": 900,
+    "Keywords": "pleural fluid culture, empyema, lung effusion infection",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Ascitic Fluid Culture & Sensitivity",
+    "Category": "Microbiology",
+    "Price": 900,
+    "Keywords": "ascitic fluid culture, spontaneous bacterial peritonitis, sbp, liver cirrhosis fluid",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Synovial Fluid Culture & Sensitivity",
+    "Category": "Microbiology",
+    "Price": 950,
+    "Keywords": "synovial culture, septic arthritis, joint infection, swollen hot joint",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "AFB Microscopy Sputum (Zeihl-Neelsen Stain)",
+    "Category": "Microbiology",
+    "Price": 250,
+    "Keywords": "afb stain, zn stain, tuberculosis, sputum for tb, chronic cough, hemoptysis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "AFB Culture & Sensitivity (Automated MGIT)",
+    "Category": "Microbiology",
+    "Price": 2200,
+    "Keywords": "mgit, afb culture, liquid tb culture, drug resistant tb, mdrtb",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "GeneXpert MTB / RIF Ultra (TB PCR)",
+    "Category": "Molecular Diagnostics",
+    "Price": 2800,
+    "Keywords": "genexpert, mtb rif, rapid tb pcr, rifampicin resistance, cbnaat, tuberculosis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Gram Stain Examination",
+    "Category": "Microbiology",
+    "Price": 180,
+    "Keywords": "gram stain, gram positive, gram negative, rapid bacterial identification",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "KOH Mount for Fungal Element",
+    "Category": "Microbiology",
+    "Price": 200,
+    "Keywords": "koh mount, fungal infection, ringworm, candidiasis, skin fungus, nail fungus",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Fungal Culture & Identification",
+    "Category": "Microbiology",
+    "Price": 850,
+    "Keywords": "fungal culture, dermatophyte, aspergilus, candida species, deep mycosis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Albert Stain for Corynebacterium Diphtheriae",
+    "Category": "Microbiology",
+    "Price": 250,
+    "Keywords": "albert stain, diphtheria, pseudomembrane throat, metachromatic granules",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "India Ink Preparation for Cryptococcus",
+    "Category": "Microbiology",
+    "Price": 350,
+    "Keywords": "india ink, cryptococcal meningitis, encapsulated yeast, hiv complication",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Skin Scraping for Leishmania (LD Bodies)",
+    "Category": "Microbiology",
+    "Price": 400,
+    "Keywords": "ld bodies, cutaneous leishmaniasis, oriental sore, skin ulcer smear",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Chlamydia Trachomatis Antigen / PCR",
+    "Category": "Molecular Diagnostics",
+    "Price": 1800,
+    "Keywords": "chlamydia, std, urethritis, pelvic inflammatory disease, cervicitis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Neisseria Gonorrhoeae Gram Stain / PCR",
+    "Category": "Molecular Diagnostics",
+    "Price": 1500,
+    "Keywords": "gonorrhea, diplococci, pus discharge, std, urethritis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Trichomonas Vaginalis Microscopy",
+    "Category": "Microbiology",
+    "Price": 200,
+    "Keywords": "trichomonas, frothy discharge, strawberry cervix, std, vaginitis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Mycoplasma & Ureaplasma Culture",
+    "Category": "Microbiology",
+    "Price": 1800,
+    "Keywords": "mycoplasma, ureaplasma, atypical pneumonia, male infertility, non gonococcal urethritis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "CSF Routine, Microscopic & Chemical Analysis",
+    "Category": "Fluid Analysis",
+    "Price": 1200,
+    "Keywords": "csf routine, lumbar puncture, protein glucose cells, meningitis differentiation",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Pleural Fluid Routine & Chemical Analysis",
+    "Category": "Fluid Analysis",
+    "Price": 850,
+    "Keywords": "pleural fluid, chest fluid, exudate vs transudate, light criteria, pleural effusion",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Ascitic Fluid Routine & Chemical Analysis",
+    "Category": "Fluid Analysis",
+    "Price": 850,
+    "Keywords": "ascitic fluid, peritoneal fluid, saag ratio, liver ascites, peritonitis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Synovial Fluid Routine & Crystal Analysis",
+    "Category": "Fluid Analysis",
+    "Price": 950,
+    "Keywords": "synovial fluid, joint aspiration, gout crystals, msu crystals, pseudogout, cppd",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Pericardial Fluid Analysis",
+    "Category": "Fluid Analysis",
+    "Price": 1200,
+    "Keywords": "pericardial fluid, heart fluid, pericarditis, cardiac tamponade",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Serum Ascites Albumin Gradient (SAAG)",
+    "Category": "Fluid Analysis",
+    "Price": 900,
+    "Keywords": "saag, portal hypertension, liver cirrhosis, ascites classification",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Semen Analysis Routine (WHO Criteria)",
+    "Category": "Fertility Diagnostics",
+    "Price": 450,
+    "Keywords": "semen analysis, sperm count, sperm motility, morphology, male infertility, azoospermia",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Fructose in Semen Quantitative",
+    "Category": "Fertility Diagnostics",
+    "Price": 350,
+    "Keywords": "semen fructose, ejaculatory duct obstruction, seminal vesicle aplasia",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Anti-Sperm Antibodies (Direct / Indirect)",
+    "Category": "Fertility Diagnostics",
+    "Price": 1200,
+    "Keywords": "anti sperm antibodies, immunological infertility, sperm agglutination",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Sperm DNA Fragmentation Index (DFI)",
+    "Category": "Fertility Diagnostics",
+    "Price": 4500,
+    "Keywords": "dfi, sperm dna damage, recurrent miscarriage, ivf failure, male fertility",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Post-Coital Test (Sims-Huhner Test)",
+    "Category": "Fertility Diagnostics",
+    "Price": 800,
+    "Keywords": "post coital test, cervical mucus sperm interaction, fertility evaluation",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Amniotic Fluid L/S Ratio (Lecithin/Sphingomyelin)",
+    "Category": "Specialized Diagnostics",
+    "Price": 2500,
+    "Keywords": "l/s ratio, fetal lung maturity, premature delivery risk",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Fern Test for Amniotic Membrane Rupture",
+    "Category": "Specialized Diagnostics",
+    "Price": 300,
+    "Keywords": "fern test, premature rupture of membranes, prom, amniotic fluid leak",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "HBV DNA Quantitative Real-Time PCR (Viral Load)",
+    "Category": "Molecular Diagnostics",
+    "Price": 3500,
+    "Keywords": "hbv dna, hepatitis b viral load, real time pcr, antiviral treatment monitoring",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "HCV RNA Quantitative Real-Time PCR (Viral Load)",
+    "Category": "Molecular Diagnostics",
+    "Price": 3800,
+    "Keywords": "hcv rna, hepatitis c viral load, pcr, direct acting antiviral monitoring",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "HIV-1 RNA Quantitative Real-Time PCR (Viral Load)",
+    "Category": "Molecular Diagnostics",
+    "Price": 3800,
+    "Keywords": "hiv viral load, art monitoring, hiv pcr, viral suppression",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "HIV-1 Drug Resistance Genotyping",
+    "Category": "Molecular Diagnostics",
+    "Price": 12000,
+    "Keywords": "hiv drug resistance, antiretroviral failure, hiv mutation panel",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "HPV High-Risk DNA PCR with Genotyping (16/18)",
+    "Category": "Molecular Diagnostics",
+    "Price": 2800,
+    "Keywords": "hpv dna, human papillomavirus, cervical cancer screening, hpv 16 18, pap smear companion",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "COVID-19 RT-PCR Test",
+    "Category": "Molecular Diagnostics",
+    "Price": 700,
+    "Keywords": "covid rtpcr, sars cov-2, coronavirus, viral fever, travel rtpcr",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Influenza A & B Real-Time RT-PCR",
+    "Category": "Molecular Diagnostics",
+    "Price": 2500,
+    "Keywords": "swine flu, h1n1, influenza a b, flu pcr, respiratory virus",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Multiplex Respiratory Virus PCR Panel",
+    "Category": "Molecular Diagnostics",
+    "Price": 6500,
+    "Keywords": "respiratory pcr panel, rsv, adenovirus, influenza, parainfluenza, severe pneumonia",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Dengue RNA Real-Time PCR",
+    "Category": "Molecular Diagnostics",
+    "Price": 2200,
+    "Keywords": "dengue pcr, early dengue detection, dengue serotype identification",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Chikungunya RNA Real-Time PCR",
+    "Category": "Molecular Diagnostics",
+    "Price": 2200,
+    "Keywords": "chikungunya pcr, viral RNA detection, early joint fever",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "CMV DNA Quantitative PCR",
+    "Category": "Molecular Diagnostics",
+    "Price": 3500,
+    "Keywords": "cmv pcr, cytomegalovirus load, organ transplant infection, congenital cmv",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "EBV DNA Quantitative PCR",
+    "Category": "Molecular Diagnostics",
+    "Price": 3500,
+    "Keywords": "ebv pcr, epstein barr viral load, nasopharyngeal carcinoma, post transplant lymphoproliferative",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "HSV 1 & 2 DNA Qualitative PCR",
+    "Category": "Molecular Diagnostics",
+    "Price": 2800,
+    "Keywords": "hsv pcr, herpes simplex dna, herpes encephalitis, genital ulcer pcr",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "HLA-B27 Ankylosing Spondylitis by PCR",
+    "Category": "Molecular Diagnostics",
+    "Price": 1800,
+    "Keywords": "hla b27, ankylosing spondylitis, inflammatory back pain, reactive arthritis, uveitis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "HLA-B5701 Abacavir Hypersensitivity PCR",
+    "Category": "Molecular Diagnostics",
+    "Price": 2500,
+    "Keywords": "hla b5701, abacavir drug allergy, hiv treatment pre screening",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "HLA-DQ2 / HLA-DQ8 Celiac Disease PCR",
+    "Category": "Molecular Diagnostics",
+    "Price": 3500,
+    "Keywords": "hla dq2 dq8, celiac genetic predisposition, gluten intolerance genetics",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "JAK2 V617F Mutation Quantitative PCR",
+    "Category": "Molecular Diagnostics",
+    "Price": 3200,
+    "Keywords": "jak2 v617f, polycythemia vera, essential thrombocythemia, myelofibrosis, mpn",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "BCR-ABL1 Major (p210) Quantitative PCR",
+    "Category": "Molecular Diagnostics",
+    "Price": 4500,
+    "Keywords": "bcr abl1, cml, chronic myeloid leukemia, imatinib monitoring, mr4.5, philadelphia chromosome",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "BCR-ABL1 Minor (p190) Quantitative PCR",
+    "Category": "Molecular Diagnostics",
+    "Price": 4500,
+    "Keywords": "bcr abl p190, all, acute lymphoblastic leukemia, philadelphia positive all",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Factor V Leiden Mutation (G1691A) PCR",
+    "Category": "Molecular Diagnostics",
+    "Price": 3000,
+    "Keywords": "factor v leiden, hereditary thrombophilia, dvt risk, recurrent miscarriage genetics",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Prothrombin G20210A Gene Mutation PCR",
+    "Category": "Molecular Diagnostics",
+    "Price": 3000,
+    "Keywords": "prothrombin mutation, factor 2 mutation, venous thrombosis, hypercoagulation",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "MTHFR Gene Mutation (C677T & A1298C) PCR",
+    "Category": "Molecular Diagnostics",
+    "Price": 3200,
+    "Keywords": "mthfr mutation, hyperhomocysteinemia, recurrent pregnancy loss, folate metabolism",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "EGFR Gene Mutation Analysis (Lung Cancer)",
+    "Category": "Molecular Diagnostics",
+    "Price": 8500,
+    "Keywords": "egfr mutation, non small cell lung cancer, erlotinib gefitinib targeting, exon 19 21",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "KRAS Gene Mutation Analysis (Colorectal)",
+    "Category": "Molecular Diagnostics",
+    "Price": 7500,
+    "Keywords": "kras mutation, colon cancer, cetuximab panitumumab response, codon 12 13",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "BRAF V600E Mutation Analysis",
+    "Category": "Molecular Diagnostics",
+    "Price": 7500,
+    "Keywords": "braf v600e, melanoma, thyroid papillary carcinoma, colorectal cancer targeting",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "BRCA1 & BRCA2 Full Gene Sequencing",
+    "Category": "Molecular Diagnostics",
+    "Price": 22000,
+    "Keywords": "brca1 brca2, hereditary breast cancer, ovarian cancer gene, ngs, hereditary cancer risk",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Non-Invasive Prenatal Testing (NIPT) Basic",
+    "Category": "Molecular Diagnostics",
+    "Price": 18000,
+    "Keywords": "nipt, cell free fetal dna, trisomy 21 down syndrome, trisomy 18 13, fetal sex, pregnancy screening",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Clinical Exome Sequencing (NGS)",
+    "Category": "Molecular Diagnostics",
+    "Price": 28000,
+    "Keywords": "clinical exome, ngs, rare genetic disease, unexplained pediatric symptoms, inherited disorder",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Karyotyping Peripheral Blood (Chromosomal)",
+    "Category": "Cytogenetics",
+    "Price": 3200,
+    "Keywords": "karyotype, chromosomal analysis, down syndrome confirmation, recurrent miscarriages, amenorrhea",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "FISH for Trisomy 13, 18, 21",
+    "Category": "Cytogenetics",
+    "Price": 4500,
+    "Keywords": "fish trisomy, rapid prenatal aneuploidy, down syndrome fish, amniotic fluid fish",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "FISH for HER2/neu Gene Amplification",
+    "Category": "Cytogenetics",
+    "Price": 7500,
+    "Keywords": "her2 fish, breast cancer her2 status, trastuzumab therapy targeting",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Chromosomal Microarray Analysis (CMA)",
+    "Category": "Cytogenetics",
+    "Price": 15000,
+    "Keywords": "cma, array cgh, microdeletion syndromes, developmental delay, autism genetics",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Pap Smear Conventional (Cervical Cytology)",
+    "Category": "Cytology",
+    "Price": 400,
+    "Keywords": "pap smear, cervical cancer screening, dysplasia, hpv effect, vaginal smear",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Liquid Based Cytology (LBC) - Cervical",
+    "Category": "Cytology",
+    "Price": 850,
+    "Keywords": "lbc pap smear, liquid based cytology, cervical cancer, bethesda system",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Fine Needle Aspiration Cytology (FNAC)",
+    "Category": "Cytology",
+    "Price": 750,
+    "Keywords": "fnac, thyroid nodule, breast lump, lymph node swelling, tumor cytology",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Sputum for Malignant Cells / Cytology",
+    "Category": "Cytology",
+    "Price": 450,
+    "Keywords": "sputum cytology, lung cancer screening, atypical cells",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Urine for Malignant Cells / Cytology",
+    "Category": "Cytology",
+    "Price": 450,
+    "Keywords": "urine cytology, bladder cancer, hematuria investigation, urothelial carcinoma",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Fluid Cytology for Malignant Cells",
+    "Category": "Cytology",
+    "Price": 600,
+    "Keywords": "fluid cytology, pleural fluid cells, ascitic malignant cells, pericardial effusion tumor",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Histopathology Small Biopsy Specimen",
+    "Category": "Histopathology",
+    "Price": 900,
+    "Keywords": "histopathology, tissue biopsy, punch biopsy, endoscopy biopsy, lesion diagnosis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Histopathology Medium Specimen (Excision)",
+    "Category": "Histopathology",
+    "Price": 1600,
+    "Keywords": "excision biopsy, fibroadenoma, appendix, gallbladder histopathology",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Histopathology Large Specimen (Radical Resection)",
+    "Category": "Histopathology",
+    "Price": 3200,
+    "Keywords": "radical resection, mastectomy, hysterectomy specimen, tumor staging, margin assessment",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Frozen Section Intraoperative Consultation",
+    "Category": "Histopathology",
+    "Price": 4000,
+    "Keywords": "frozen section, intraoperative biopsy, surgical margin check, rapid tissue diagnosis",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Immunohistochemistry (IHC) Single Marker",
+    "Category": "Histopathology",
+    "Price": 1800,
+    "Keywords": "ihc single marker, er pr her2, ki-67, cd20, tumor classification, lymphoma subtyping",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "IHC Breast Panel (ER, PR, HER2, Ki-67)",
+    "Category": "Histopathology",
+    "Price": 4500,
+    "Keywords": "ihc breast panel, estrogen receptor, progesterone receptor, breast cancer profiling",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "IHC Lymphoma Panel (Comprehensive)",
+    "Category": "Histopathology",
+    "Price": 8500,
+    "Keywords": "ihc lymphoma panel, hodgkin vs non hodgkin, b cell t cell typing, cd3 cd20 cd30",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Executive Full Body Checkup",
+    "Category": "Health Packages",
+    "Price": 2999,
+    "Keywords": "full body checkup, master health check, cbc, lft, kft, lipid, thyroid, hba1c, urine",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Comprehensive Diabetic Health Profile",
+    "Category": "Health Packages",
+    "Price": 1499,
+    "Keywords": "diabetic profile, hba1c, fbs, ppbs, urine microalbumin, lipid profile, kft, diabetic screening",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Basic Thyroid Screening Profile",
+    "Category": "Health Packages",
+    "Price": 450,
+    "Keywords": "thyroid profile, t3 t4 tsh, weight loss, weight gain, fatigue",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Complete Autoimmune Thyroid Profile",
+    "Category": "Health Packages",
+    "Price": 1899,
+    "Keywords": "autoimmune thyroid, t3 t4 tsh, anti tpo, anti tg, hashimoto, graves",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Master Cardiac Risk Profile",
+    "Category": "Health Packages",
+    "Price": 2499,
+    "Keywords": "cardiac profile, lipid profile, hs-crp, homocysteine, apolipoprotein b, hba1c, kft",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Senior Citizen Male Health Panel",
+    "Category": "Health Packages",
+    "Price": 3499,
+    "Keywords": "senior male checkup, cbc, lft, kft, lipid, thyroid, psa, hba1c, vitamin d, b12, urine",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Senior Citizen Female Health Panel",
+    "Category": "Health Packages",
+    "Price": 3499,
+    "Keywords": "senior female checkup, cbc, lft, kft, lipid, thyroid, ca-125, hba1c, vitamin d, b12, bone",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Gym & Fitness Basic Profile",
+    "Category": "Health Packages",
+    "Price": 1199,
+    "Keywords": "gym profile, cbc, blood sugar, lipid, kidney, liver, electrolytes, protein",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Gym & Fitness Advanced Profile",
+    "Category": "Health Packages",
+    "Price": 2499,
+    "Keywords": "advanced gym profile, cbc, lft, kft, lipid, total testosterone, cpk, vitamin d, b12, uric acid",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "PCOS / PCOD Comprehensive Panel",
+    "Category": "Health Packages",
+    "Price": 2999,
+    "Keywords": "pcos profile, pcod, lh, fsh, prolactin, total testosterone, amh, fasting insulin, thyroid, usg",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Antenatal Screening Profile (1st Trimester)",
+    "Category": "Health Packages",
+    "Price": 1899,
+    "Keywords": "anc profile, pregnancy first trimester, blood group, cbc, fbs, hiv, hbsag, vdrl, tsh, urine",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Antenatal Screening Profile (2nd Trimester)",
+    "Category": "Health Packages",
+    "Price": 1499,
+    "Keywords": "anc 2nd trimester, cbc, ogtt, urine routine, indirect coombs if rh negative",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Anemia Evaluation Profile",
+    "Category": "Health Packages",
+    "Price": 1299,
+    "Keywords": "anemia profile, cbc, peripheral smear, iron studies, ferritin, vitamin b12, reticulocyte",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Fever Panel Comprehensive",
+    "Category": "Health Packages",
+    "Price": 1599,
+    "Keywords": "fever profile, cbc, esr, mp smear, dengue ns1, widal, urine routine, lft",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Bone Health & Osteoporosis Profile",
+    "Category": "Health Packages",
+    "Price": 1899,
+    "Keywords": "bone profile, calcium, phosphorus, vitamin d, intact pth, alkaline phosphatase, albumin",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Liver & Kidney Function Combined Profile",
+    "Category": "Health Packages",
+    "Price": 1299,
+    "Keywords": "lft kft combined, liver kidney profile, bilirubin, enzymes, urea, creatinine, electrolytes",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Hypertension Screening & Risk Panel",
+    "Category": "Health Packages",
+    "Price": 1699,
+    "Keywords": "hypertension profile, kft, electrolytes, lipid profile, urine microalbumin, blood sugar, uric acid",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Obesity & Weight Loss Evaluation Panel",
+    "Category": "Health Packages",
+    "Price": 2199,
+    "Keywords": "weight loss panel, thyroid, lipid, hba1c, fasting insulin, cortisol, leptin, liver enzymes",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Pre-Employment Medical Checkup",
+    "Category": "Health Packages",
+    "Price": 899,
+    "Keywords": "pre employment, cbc, rbs, urine routine, chest xray, blood group, hiv, hbsag",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Post-COVID Recovery Health Panel",
+    "Category": "Health Packages",
+    "Price": 1999,
+    "Keywords": "post covid profile, cbc, d-dimer, hs-crp, ferritin, kft, lft, chest profile",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Smoker's Health Risk Panel",
+    "Category": "Health Packages",
+    "Price": 2299,
+    "Keywords": "smoker panel, cbc, cea tumor marker, lipid profile, vitamin c, crp, kidney profile",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Hair Loss & Alopecia Evaluation Profile",
+    "Category": "Health Packages",
+    "Price": 1999,
+    "Keywords": "hair fall profile, iron, ferritin, zinc, thyroid, total testosterone, dhea-s, vitamin d, b12",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Menopause Health Screening Panel",
+    "Category": "Health Packages",
+    "Price": 2499,
+    "Keywords": "menopause profile, fsh, lh, estradiol, tsh, lipid, bone calcium, vitamin d, mammogram",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Premarital Health Screening Profile",
+    "Category": "Health Packages",
+    "Price": 2899,
+    "Keywords": "premarital profile, cbc, hplc hemoglobinopathy, hiv, hbsag, hcv, vdrl, blood group",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "STD / STI Comprehensive Screening Panel",
+    "Category": "Health Packages",
+    "Price": 3200,
+    "Keywords": "std panel, hiv, hbsag, hcv, vdrl, chlamydia pcr, gonorrhea pcr, hsv 2 igg",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Pediatric Wellness Profile",
+    "Category": "Health Packages",
+    "Price": 1299,
+    "Keywords": "child health checkup, cbc, blood group, urine routine, iron, ferritin, vitamin d, calcium",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Chronic Fatigue & Weakness Profile",
+    "Category": "Health Packages",
+    "Price": 1899,
+    "Keywords": "fatigue profile, cbc, esr, tsh, vitamin d, vitamin b12, ferritin, blood sugar, electrolytes",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Electrolyte & Fluid Balance Panel",
+    "Category": "Health Packages",
+    "Price": 550,
+    "Keywords": "electrolytes panel, sodium, potassium, chloride, bicarbonate, ionic calcium",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Iron Deficiency Anemia Panel",
+    "Category": "Health Packages",
+    "Price": 1100,
+    "Keywords": "iron panel, cbc, iron, tibc, transferrin saturation, ferritin",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Lipid & Advanced Cardiac Risk Profile",
+    "Category": "Health Packages",
+    "Price": 1899,
+    "Keywords": "cardiac risk, lipid profile, hs-crp, homocysteine, apo b, lp(a)",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Rheumatic & Joint Pain Profile",
+    "Category": "Health Packages",
+    "Price": 1699,
+    "Keywords": "joint pain profile, cbc, esr, crp, ra factor, anti ccp, uric acid, ana",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Gut Health & Celiac Screening Profile",
+    "Category": "Health Packages",
+    "Price": 2199,
+    "Keywords": "gut profile, anti ttg iga, total iga, stool occult blood, stool calprotectin",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Nutritional Deficiencies Comprehensive Panel",
+    "Category": "Health Packages",
+    "Price": 2899,
+    "Keywords": "nutrition profile, vitamin d, b12, folate, iron, ferritin, calcium, zinc, magnesium, albumin",
+    "Status": "Active"
+  },
+  {
+    "Test Name": "Complete Metabolic Panel (CMP)",
+    "Category": "Health Packages",
+    "Price": 950,
+    "Keywords": "cmp, glucose, calcium, sodium, potassium, chloride, bun, creatinine, total protein, albumin, lft",
+    "Status": "Active"
+  }
+]

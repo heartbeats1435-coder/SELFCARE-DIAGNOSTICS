@@ -1,0 +1,14 @@
+[
+  {
+    "Package Name": "Executive Full Body Checkup",
+    "Price": 2999,
+    "Tests Included": "CBC, LFT, KFT, Lipid Profile, Thyroid Profile, HbA1c, Urine Routine",
+    "Category": "Full Body"
+  },
+  {
+    "Package Name": "Comprehensive Diabetic Care",
+    "Price": 1499,
+    "Tests Included": "HbA1c, FBS, PPBS, Urine Microalbumin, Lipid Profile, Creatinine",
+    "Category": "Diabetes"
+  }
+]
